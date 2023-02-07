@@ -1,17 +1,13 @@
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class VPW {
+public class Main {
 
-	public static void main(String[] args) throws IOException {
-		String mainPath = "src/main/resources/";
-		FileReader file = new FileReader(mainPath + "input.txt");
+	public static void main(String[] args) {
 
-		try (Scanner sc = new Scanner(file)) {
+		try (Scanner sc = new Scanner(System.in)) {
 			int k = sc.nextInt();
 
 			List<List<Integer>> lists = new ArrayList<>();
