@@ -1,0 +1,15 @@
+15 <- Aantal testgevallen
+
+4 150 150 150 150  <- het aantal boekenkasten met de groote van de boekenkasten
+5 <- aantal boeken
+70 A Game of Thrones <- dikte boek & boek titel
+76 A Clash of Kings
+99 A Storm of Swords
+75 A Feasts for Crows
+105 A Dance With Dragons
+
+3 500 500 500  <- het aantal boekenkasten met de groote van de boekenkasten
+3 <- aantal boeken
+1309 Artamene <- dikte boek & boek titel
+303 A la recherche du temps perdu
+399 Mission Earth

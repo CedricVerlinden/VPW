@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class MinMax {
 
 	public static void main(String[] args) {
 
