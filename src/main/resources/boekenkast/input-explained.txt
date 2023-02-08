@@ -1,0 +1,9 @@
+1 <- amount of testcases
+
+4 150 150 150 150  <- amount of bookshelves with the size of the bookshelves
+5 <- amount of books
+70 A Game of Thrones <- size of the book and book title
+76 A Clash of Kings <- *
+99 A Storm of Swords <- *
+75 A Feasts for Crows <- *
+105 A Dance With Dragons <- *
