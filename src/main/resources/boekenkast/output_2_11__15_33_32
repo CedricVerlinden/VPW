@@ -1,0 +1,213 @@
+Total testcases: 15
+
+Current testcase: 1
+	Total shelves: 4
+		Shelve size #1: 150
+		Shelve size #2: 150
+		Shelve size #3: 150
+		Shelve size #4: 150
+
+	Total books: 5
+		Book #1: A Game of Thrones | Size: 70
+		Book #2: A Clash of Kings | Size: 76
+		Book #3: A Storm of Swords | Size: 99
+		Book #4: A Feasts for Crows | Size: 75
+		Book #5: A Dance With Dragons | Size: 105
+
+	Totals:
+		Shelve size: 600
+		Book size: 425
+-----
+
+Current testcase: 2
+	Total shelves: 3
+		Shelve size #1: 500
+		Shelve size #2: 500
+		Shelve size #3: 500
+
+	Total books: 3
+		Book #1: Artamene | Size: 1309
+		Book #2: A la recherche du temps perdu | Size: 303
+		Book #3: Mission Earth | Size: 399
+
+	Totals:
+		Shelve size: 1500
+		Book size: 2011
+-----
+
+Current testcase: 3
+	Total shelves: 1
+		Shelve size #1: 10
+
+	Total books: 1
+		Book #1: a | Size: 10
+
+	Totals:
+		Shelve size: 10
+		Book size: 10
+-----
+
+Current testcase: 4
+	Total shelves: 1
+		Shelve size #1: 10
+
+	Total books: 1
+		Book #1: a | Size: 11
+
+	Totals:
+		Shelve size: 10
+		Book size: 11
+-----
+
+Current testcase: 5
+	Total shelves: 1
+		Shelve size #1: 1
+
+	Total books: 0
+
+	Totals:
+		Shelve size: 1
+		Book size: 0
+-----
+
+Current testcase: 6
+	Total shelves: 0
+
+	Total books: 1
+		Book #1: aaa | Size: 1
+
+	Totals:
+		Shelve size: 0
+		Book size: 1
+-----
+
+Current testcase: 7
+	Total shelves: 1
+		Shelve size #1: 1
+
+	Total books: 1
+		Book #1: aaa | Size: 1
+
+	Totals:
+		Shelve size: 1
+		Book size: 1
+-----
+
+Current testcase: 8
+	Total shelves: 2
+		Shelve size #1: 10
+		Shelve size #2: 5
+
+	Total books: 3
+		Book #1: a | Size: 8
+		Book #2: b | Size: 2
+		Book #3: c | Size: 5
+
+	Totals:
+		Shelve size: 15
+		Book size: 15
+-----
+
+Current testcase: 9
+	Total shelves: 2
+		Shelve size #1: 10
+		Shelve size #2: 5
+
+	Total books: 3
+		Book #1: b | Size: 2
+		Book #2: c | Size: 5
+		Book #3: a | Size: 8
+
+	Totals:
+		Shelve size: 15
+		Book size: 15
+-----
+
+Current testcase: 10
+	Total shelves: 2
+		Shelve size #1: 10
+		Shelve size #2: 5
+
+	Total books: 3
+		Book #1: a | Size: 2
+		Book #2: b | Size: 5
+		Book #3: c | Size: 8
+
+	Totals:
+		Shelve size: 15
+		Book size: 15
+-----
+
+Current testcase: 11
+	Total shelves: 2
+		Shelve size #1: 10
+		Shelve size #2: 5
+
+	Total books: 3
+		Book #1: c | Size: 8
+		Book #2: a | Size: 2
+		Book #3: b | Size: 5
+
+	Totals:
+		Shelve size: 15
+		Book size: 15
+-----
+
+Current testcase: 12
+	Total shelves: 3
+		Shelve size #1: 100
+		Shelve size #2: 5
+		Shelve size #3: 5
+
+	Total books: 2
+		Book #1: a | Size: 5
+		Book #2: b | Size: 5
+
+	Totals:
+		Shelve size: 110
+		Book size: 10
+-----
+
+Current testcase: 13
+	Total shelves: 3
+		Shelve size #1: 5
+		Shelve size #2: 100
+		Shelve size #3: 5
+
+	Total books: 2
+		Book #1: a | Size: 5
+		Book #2: b | Size: 5
+
+	Totals:
+		Shelve size: 110
+		Book size: 10
+-----
+
+Current testcase: 14
+	Total shelves: 3
+		Shelve size #1: 5
+		Shelve size #2: 5
+		Shelve size #3: 100
+
+	Total books: 2
+		Book #1: a | Size: 5
+		Book #2: b | Size: 5
+
+	Totals:
+		Shelve size: 110
+		Book size: 10
+-----
+
+Current testcase: 15
+	Total shelves: 2
+		Shelve size #1: 2
+		Shelve size #2: 10
+
+	Total books: 2
+		Book #1: a | Size: 2
+		Book #2: b | Size: 9
+
+	Totals:
+		Shelve size: 12
+		Book size: 11
+-----
