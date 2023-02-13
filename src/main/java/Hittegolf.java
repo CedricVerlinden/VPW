@@ -34,6 +34,14 @@ public class Hittegolf {
 					tempCount++;
 				}
 
+				/*
+				Checks:
+					- temperature => 25
+					- temperature < 25 -> tempList = empty or list contains 5 temps (>=3 -> 30+)
+				End checks:
+					- Total # temps >= 5 (>=3 -> 30+)
+				 */
+				// heatwave
 				List<Double> heatWave = new ArrayList<>();
 				for (double temp : temperatures) {
 
