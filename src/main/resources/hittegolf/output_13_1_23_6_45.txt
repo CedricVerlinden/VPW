@@ -1,0 +1,3569 @@
+Total testcases: 100
+
+Current testcase: 1
+	Temperature reading #1: 24.7
+	Temperature reading #2: 25.1
+	Temperature reading #3: 28.9
+	Temperature reading #4: 31.0
+	Temperature reading #5: 28.6
+	Temperature reading #6: 30.6
+	Temperature reading #7: 32.4
+	Temperature reading #8: 23.0
+
+Temperature list: [24.7, 25.1, 28.9, 31.0, 28.6, 30.6, 32.4, 23.0]
+Predicted heatwave: [25.1, 28.9, 31.0, 28.6, 30.6, 32.4]
+-----
+
+Current testcase: 2
+	Temperature reading #1: 26.0
+	Temperature reading #2: 24.1
+	Temperature reading #3: 29.4
+	Temperature reading #4: 32.8
+	Temperature reading #5: 34.0
+	Temperature reading #6: 25.5
+	Temperature reading #7: 20.1
+	Temperature reading #8: 19.0
+
+Temperature list: [26.0, 24.1, 29.4, 32.8, 34.0, 25.5, 20.1, 19.0]
+Predicted heatwave: []
+-----
+
+Current testcase: 3
+	Temperature reading #1: 18.0
+	Temperature reading #2: 26.2
+	Temperature reading #3: 28.9
+	Temperature reading #4: 24.5
+	Temperature reading #5: 15.7
+	Temperature reading #6: 8.5
+	Temperature reading #7: 7.5
+	Temperature reading #8: 13.5
+	Temperature reading #9: 22.5
+	Temperature reading #10: 28.5
+	Temperature reading #11: 27.5
+	Temperature reading #12: 20.3
+	Temperature reading #13: 11.5
+	Temperature reading #14: 7.1
+	Temperature reading #15: 9.8
+
+Temperature list: [18.0, 26.2, 28.9, 24.5, 15.7, 8.5, 7.5, 13.5, 22.5, 28.5, 27.5, 20.3, 11.5, 7.1, 9.8]
+Predicted heatwave: []
+-----
+
+Current testcase: 4
+	Temperature reading #1: 22.0
+	Temperature reading #2: 28.5
+	Temperature reading #3: 33.3
+	Temperature reading #4: 35.0
+	Temperature reading #5: 33.3
+	Temperature reading #6: 28.5
+	Temperature reading #7: 22.0
+	Temperature reading #8: 15.5
+	Temperature reading #9: 10.7
+	Temperature reading #10: 9.0
+	Temperature reading #11: 10.7
+	Temperature reading #12: 15.5
+	Temperature reading #13: 22.0
+	Temperature reading #14: 28.5
+	Temperature reading #15: 33.3
+	Temperature reading #16: 35.0
+	Temperature reading #17: 33.3
+	Temperature reading #18: 28.5
+	Temperature reading #19: 22.0
+	Temperature reading #20: 15.5
+	Temperature reading #21: 10.7
+	Temperature reading #22: 9.0
+	Temperature reading #23: 10.7
+	Temperature reading #24: 15.5
+
+Temperature list: [22.0, 28.5, 33.3, 35.0, 33.3, 28.5, 22.0, 15.5, 10.7, 9.0, 10.7, 15.5, 22.0, 28.5, 33.3, 35.0, 33.3, 28.5, 22.0, 15.5, 10.7, 9.0, 10.7, 15.5]
+Predicted heatwave: [28.5, 33.3, 35.0, 33.3, 28.5]
+-----
+
+Current testcase: 5
+	Temperature reading #1: 16.0
+	Temperature reading #2: 19.6
+	Temperature reading #3: 22.7
+	Temperature reading #4: 25.0
+	Temperature reading #5: 26.0
+	Temperature reading #6: 25.6
+	Temperature reading #7: 24.0
+	Temperature reading #8: 21.3
+	Temperature reading #9: 17.8
+	Temperature reading #10: 14.2
+	Temperature reading #11: 10.7
+	Temperature reading #12: 8.0
+	Temperature reading #13: 6.4
+	Temperature reading #14: 6.0
+	Temperature reading #15: 7.0
+	Temperature reading #16: 9.3
+	Temperature reading #17: 12.4
+
+Temperature list: [16.0, 19.6, 22.7, 25.0, 26.0, 25.6, 24.0, 21.3, 17.8, 14.2, 10.7, 8.0, 6.4, 6.0, 7.0, 9.3, 12.4]
+Predicted heatwave: []
+-----
+
+Current testcase: 6
+	Temperature reading #1: 23.0
+	Temperature reading #2: 26.5
+	Temperature reading #3: 29.8
+	Temperature reading #4: 32.4
+	Temperature reading #5: 34.2
+	Temperature reading #6: 35.0
+	Temperature reading #7: 34.7
+	Temperature reading #8: 33.4
+	Temperature reading #9: 31.2
+	Temperature reading #10: 28.2
+	Temperature reading #11: 24.8
+	Temperature reading #12: 21.2
+	Temperature reading #13: 17.8
+	Temperature reading #14: 14.8
+	Temperature reading #15: 12.6
+	Temperature reading #16: 11.3
+	Temperature reading #17: 11.0
+	Temperature reading #18: 11.8
+	Temperature reading #19: 13.6
+	Temperature reading #20: 16.2
+	Temperature reading #21: 19.5
+
+Temperature list: [23.0, 26.5, 29.8, 32.4, 34.2, 35.0, 34.7, 33.4, 31.2, 28.2, 24.8, 21.2, 17.8, 14.8, 12.6, 11.3, 11.0, 11.8, 13.6, 16.2, 19.5]
+Predicted heatwave: [26.5, 29.8, 32.4, 34.2, 35.0, 34.7, 33.4, 31.2, 28.2]
+-----
+
+Current testcase: 7
+	Temperature reading #1: 16.0
+	Temperature reading #2: 22.3
+	Temperature reading #3: 27.0
+	Temperature reading #4: 29.0
+	Temperature reading #5: 27.8
+	Temperature reading #6: 23.6
+	Temperature reading #7: 17.6
+	Temperature reading #8: 11.2
+	Temperature reading #9: 6.0
+	Temperature reading #10: 3.2
+	Temperature reading #11: 3.6
+	Temperature reading #12: 7.1
+	Temperature reading #13: 12.8
+	Temperature reading #14: 19.2
+	Temperature reading #15: 24.9
+	Temperature reading #16: 28.4
+	Temperature reading #17: 28.8
+	Temperature reading #18: 26.0
+	Temperature reading #19: 20.8
+	Temperature reading #20: 14.4
+	Temperature reading #21: 8.4
+	Temperature reading #22: 4.2
+	Temperature reading #23: 3.0
+	Temperature reading #24: 5.0
+	Temperature reading #25: 9.7
+
+Temperature list: [16.0, 22.3, 27.0, 29.0, 27.8, 23.6, 17.6, 11.2, 6.0, 3.2, 3.6, 7.1, 12.8, 19.2, 24.9, 28.4, 28.8, 26.0, 20.8, 14.4, 8.4, 4.2, 3.0, 5.0, 9.7]
+Predicted heatwave: []
+-----
+
+Current testcase: 8
+	Temperature reading #1: 21.0
+	Temperature reading #2: 23.6
+	Temperature reading #3: 26.1
+	Temperature reading #4: 28.4
+	Temperature reading #5: 30.4
+	Temperature reading #6: 32.2
+	Temperature reading #7: 33.5
+	Temperature reading #8: 34.5
+	Temperature reading #9: 34.9
+	Temperature reading #10: 34.9
+	Temperature reading #11: 34.5
+	Temperature reading #12: 33.5
+	Temperature reading #13: 32.2
+	Temperature reading #14: 30.4
+	Temperature reading #15: 28.4
+	Temperature reading #16: 26.1
+	Temperature reading #17: 23.6
+	Temperature reading #18: 21.0
+	Temperature reading #19: 18.4
+	Temperature reading #20: 15.9
+	Temperature reading #21: 13.6
+	Temperature reading #22: 11.6
+	Temperature reading #23: 9.8
+	Temperature reading #24: 8.5
+	Temperature reading #25: 7.5
+	Temperature reading #26: 7.1
+	Temperature reading #27: 7.1
+	Temperature reading #28: 7.5
+	Temperature reading #29: 8.5
+	Temperature reading #30: 9.8
+	Temperature reading #31: 11.6
+	Temperature reading #32: 13.6
+	Temperature reading #33: 15.9
+	Temperature reading #34: 18.4
+
+Temperature list: [21.0, 23.6, 26.1, 28.4, 30.4, 32.2, 33.5, 34.5, 34.9, 34.9, 34.5, 33.5, 32.2, 30.4, 28.4, 26.1, 23.6, 21.0, 18.4, 15.9, 13.6, 11.6, 9.8, 8.5, 7.5, 7.1, 7.1, 7.5, 8.5, 9.8, 11.6, 13.6, 15.9, 18.4]
+Predicted heatwave: [26.1, 28.4, 30.4, 32.2, 33.5, 34.5, 34.9, 34.9, 34.5, 33.5, 32.2, 30.4, 28.4, 26.1]
+-----
+
+Current testcase: 9
+	Temperature reading #1: 18.0
+	Temperature reading #2: 21.8
+	Temperature reading #3: 25.3
+	Temperature reading #4: 28.2
+	Temperature reading #5: 30.4
+	Temperature reading #6: 31.7
+	Temperature reading #7: 32.0
+	Temperature reading #8: 31.2
+	Temperature reading #9: 29.4
+	Temperature reading #10: 26.8
+	Temperature reading #11: 23.6
+	Temperature reading #12: 19.9
+	Temperature reading #13: 16.1
+	Temperature reading #14: 12.4
+	Temperature reading #15: 9.2
+	Temperature reading #16: 6.6
+	Temperature reading #17: 4.8
+	Temperature reading #18: 4.0
+	Temperature reading #19: 4.3
+	Temperature reading #20: 5.6
+	Temperature reading #21: 7.8
+	Temperature reading #22: 10.7
+	Temperature reading #23: 14.2
+	Temperature reading #24: 18.0
+	Temperature reading #25: 21.8
+	Temperature reading #26: 25.3
+	Temperature reading #27: 28.2
+	Temperature reading #28: 30.4
+	Temperature reading #29: 31.7
+	Temperature reading #30: 32.0
+	Temperature reading #31: 31.2
+	Temperature reading #32: 29.4
+	Temperature reading #33: 26.8
+	Temperature reading #34: 23.6
+	Temperature reading #35: 19.9
+	Temperature reading #36: 16.1
+	Temperature reading #37: 12.4
+	Temperature reading #38: 9.2
+	Temperature reading #39: 6.6
+	Temperature reading #40: 4.8
+	Temperature reading #41: 4.0
+	Temperature reading #42: 4.3
+	Temperature reading #43: 5.6
+	Temperature reading #44: 7.8
+	Temperature reading #45: 10.7
+	Temperature reading #46: 14.2
+	Temperature reading #47: 18.0
+	Temperature reading #48: 21.8
+	Temperature reading #49: 25.3
+	Temperature reading #50: 28.2
+	Temperature reading #51: 30.4
+	Temperature reading #52: 31.7
+	Temperature reading #53: 32.0
+	Temperature reading #54: 31.2
+	Temperature reading #55: 29.4
+	Temperature reading #56: 26.8
+	Temperature reading #57: 23.6
+	Temperature reading #58: 19.9
+	Temperature reading #59: 16.1
+	Temperature reading #60: 12.4
+	Temperature reading #61: 9.2
+	Temperature reading #62: 6.6
+	Temperature reading #63: 4.8
+	Temperature reading #64: 4.0
+	Temperature reading #65: 4.3
+	Temperature reading #66: 5.6
+	Temperature reading #67: 7.8
+	Temperature reading #68: 10.7
+	Temperature reading #69: 14.2
+
+Temperature list: [18.0, 21.8, 25.3, 28.2, 30.4, 31.7, 32.0, 31.2, 29.4, 26.8, 23.6, 19.9, 16.1, 12.4, 9.2, 6.6, 4.8, 4.0, 4.3, 5.6, 7.8, 10.7, 14.2, 18.0, 21.8, 25.3, 28.2, 30.4, 31.7, 32.0, 31.2, 29.4, 26.8, 23.6, 19.9, 16.1, 12.4, 9.2, 6.6, 4.8, 4.0, 4.3, 5.6, 7.8, 10.7, 14.2, 18.0, 21.8, 25.3, 28.2, 30.4, 31.7, 32.0, 31.2, 29.4, 26.8, 23.6, 19.9, 16.1, 12.4, 9.2, 6.6, 4.8, 4.0, 4.3, 5.6, 7.8, 10.7, 14.2]
+Predicted heatwave: [25.3, 28.2, 30.4, 31.7, 32.0, 31.2, 29.4, 26.8]
+-----
+
+Current testcase: 10
+	Temperature reading #1: 17.0
+	Temperature reading #2: 20.9
+	Temperature reading #3: 24.5
+	Temperature reading #4: 27.5
+	Temperature reading #5: 29.6
+	Temperature reading #6: 30.8
+	Temperature reading #7: 30.9
+	Temperature reading #8: 29.9
+	Temperature reading #9: 27.9
+	Temperature reading #10: 25.0
+	Temperature reading #11: 21.5
+	Temperature reading #12: 17.7
+	Temperature reading #13: 13.7
+	Temperature reading #14: 10.1
+	Temperature reading #15: 7.0
+	Temperature reading #16: 4.7
+	Temperature reading #17: 3.3
+	Temperature reading #18: 3.0
+	Temperature reading #19: 3.9
+	Temperature reading #20: 5.7
+	Temperature reading #21: 8.5
+	Temperature reading #22: 11.9
+	Temperature reading #23: 15.7
+	Temperature reading #24: 19.6
+	Temperature reading #25: 23.3
+	Temperature reading #26: 26.5
+	Temperature reading #27: 29.0
+	Temperature reading #28: 30.5
+	Temperature reading #29: 31.0
+	Temperature reading #30: 30.4
+	Temperature reading #31: 28.7
+	Temperature reading #32: 26.1
+	Temperature reading #33: 22.7
+	Temperature reading #34: 19.0
+	Temperature reading #35: 15.0
+	Temperature reading #36: 11.3
+	Temperature reading #37: 7.9
+	Temperature reading #38: 5.3
+	Temperature reading #39: 3.6
+	Temperature reading #40: 3.0
+	Temperature reading #41: 3.5
+	Temperature reading #42: 5.0
+	Temperature reading #43: 7.5
+	Temperature reading #44: 10.7
+	Temperature reading #45: 14.4
+	Temperature reading #46: 18.3
+	Temperature reading #47: 22.1
+	Temperature reading #48: 25.5
+	Temperature reading #49: 28.3
+	Temperature reading #50: 30.1
+	Temperature reading #51: 31.0
+	Temperature reading #52: 30.7
+	Temperature reading #53: 29.3
+	Temperature reading #54: 27.0
+	Temperature reading #55: 23.9
+	Temperature reading #56: 20.3
+	Temperature reading #57: 16.3
+	Temperature reading #58: 12.5
+	Temperature reading #59: 9.0
+	Temperature reading #60: 6.1
+	Temperature reading #61: 4.1
+	Temperature reading #62: 3.1
+	Temperature reading #63: 3.2
+	Temperature reading #64: 4.4
+	Temperature reading #65: 6.5
+	Temperature reading #66: 9.5
+	Temperature reading #67: 13.1
+
+Temperature list: [17.0, 20.9, 24.5, 27.5, 29.6, 30.8, 30.9, 29.9, 27.9, 25.0, 21.5, 17.7, 13.7, 10.1, 7.0, 4.7, 3.3, 3.0, 3.9, 5.7, 8.5, 11.9, 15.7, 19.6, 23.3, 26.5, 29.0, 30.5, 31.0, 30.4, 28.7, 26.1, 22.7, 19.0, 15.0, 11.3, 7.9, 5.3, 3.6, 3.0, 3.5, 5.0, 7.5, 10.7, 14.4, 18.3, 22.1, 25.5, 28.3, 30.1, 31.0, 30.7, 29.3, 27.0, 23.9, 20.3, 16.3, 12.5, 9.0, 6.1, 4.1, 3.1, 3.2, 4.4, 6.5, 9.5, 13.1]
+Predicted heatwave: [26.5, 29.0, 30.5, 31.0, 30.4, 28.7, 26.1]
+-----
+
+Current testcase: 11
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.7
+	Temperature reading #3: 29.2
+	Temperature reading #4: 31.5
+	Temperature reading #5: 33.4
+	Temperature reading #6: 34.8
+	Temperature reading #7: 35.7
+	Temperature reading #8: 36.0
+	Temperature reading #9: 35.7
+	Temperature reading #10: 34.8
+	Temperature reading #11: 33.4
+	Temperature reading #12: 31.5
+	Temperature reading #13: 29.2
+	Temperature reading #14: 26.7
+	Temperature reading #15: 24.0
+	Temperature reading #16: 21.3
+	Temperature reading #17: 18.8
+	Temperature reading #18: 16.5
+	Temperature reading #19: 14.6
+	Temperature reading #20: 13.2
+	Temperature reading #21: 12.3
+	Temperature reading #22: 12.0
+	Temperature reading #23: 12.3
+	Temperature reading #24: 13.2
+	Temperature reading #25: 14.6
+	Temperature reading #26: 16.5
+	Temperature reading #27: 18.8
+	Temperature reading #28: 21.3
+
+Temperature list: [24.0, 26.7, 29.2, 31.5, 33.4, 34.8, 35.7, 36.0, 35.7, 34.8, 33.4, 31.5, 29.2, 26.7, 24.0, 21.3, 18.8, 16.5, 14.6, 13.2, 12.3, 12.0, 12.3, 13.2, 14.6, 16.5, 18.8, 21.3]
+Predicted heatwave: [26.7, 29.2, 31.5, 33.4, 34.8, 35.7, 36.0, 35.7, 34.8, 33.4, 31.5, 29.2, 26.7]
+-----
+
+Current testcase: 12
+	Temperature reading #1: 17.0
+	Temperature reading #2: 23.5
+	Temperature reading #3: 28.7
+	Temperature reading #4: 31.6
+	Temperature reading #5: 31.6
+	Temperature reading #6: 28.7
+	Temperature reading #7: 23.5
+	Temperature reading #8: 17.0
+	Temperature reading #9: 10.5
+	Temperature reading #10: 5.3
+	Temperature reading #11: 2.4
+	Temperature reading #12: 2.4
+	Temperature reading #13: 5.3
+	Temperature reading #14: 10.5
+
+Temperature list: [17.0, 23.5, 28.7, 31.6, 31.6, 28.7, 23.5, 17.0, 10.5, 5.3, 2.4, 2.4, 5.3, 10.5]
+Predicted heatwave: []
+-----
+
+Current testcase: 13
+	Temperature reading #1: 21.0
+	Temperature reading #2: 26.9
+	Temperature reading #3: 31.7
+	Temperature reading #4: 34.5
+	Temperature reading #5: 34.8
+	Temperature reading #6: 32.6
+	Temperature reading #7: 28.2
+	Temperature reading #8: 22.5
+	Temperature reading #9: 16.5
+	Temperature reading #10: 11.4
+	Temperature reading #11: 8.0
+	Temperature reading #12: 7.0
+	Temperature reading #13: 8.6
+	Temperature reading #14: 12.5
+	Temperature reading #15: 18.0
+	Temperature reading #16: 24.0
+	Temperature reading #17: 29.5
+	Temperature reading #18: 33.4
+	Temperature reading #19: 35.0
+	Temperature reading #20: 34.0
+	Temperature reading #21: 30.6
+	Temperature reading #22: 25.5
+	Temperature reading #23: 19.5
+	Temperature reading #24: 13.8
+	Temperature reading #25: 9.4
+	Temperature reading #26: 7.2
+	Temperature reading #27: 7.5
+	Temperature reading #28: 10.3
+	Temperature reading #29: 15.1
+
+Temperature list: [21.0, 26.9, 31.7, 34.5, 34.8, 32.6, 28.2, 22.5, 16.5, 11.4, 8.0, 7.0, 8.6, 12.5, 18.0, 24.0, 29.5, 33.4, 35.0, 34.0, 30.6, 25.5, 19.5, 13.8, 9.4, 7.2, 7.5, 10.3, 15.1]
+Predicted heatwave: [26.9, 31.7, 34.5, 34.8, 32.6, 28.2]
+-----
+
+Current testcase: 14
+	Temperature reading #1: 17.0
+	Temperature reading #2: 20.4
+	Temperature reading #3: 23.5
+	Temperature reading #4: 25.9
+	Temperature reading #5: 27.5
+	Temperature reading #6: 28.0
+	Temperature reading #7: 27.5
+	Temperature reading #8: 25.9
+	Temperature reading #9: 23.5
+	Temperature reading #10: 20.4
+	Temperature reading #11: 17.0
+	Temperature reading #12: 13.6
+	Temperature reading #13: 10.5
+	Temperature reading #14: 8.1
+	Temperature reading #15: 6.5
+	Temperature reading #16: 6.0
+	Temperature reading #17: 6.5
+	Temperature reading #18: 8.1
+	Temperature reading #19: 10.5
+	Temperature reading #20: 13.6
+
+Temperature list: [17.0, 20.4, 23.5, 25.9, 27.5, 28.0, 27.5, 25.9, 23.5, 20.4, 17.0, 13.6, 10.5, 8.1, 6.5, 6.0, 6.5, 8.1, 10.5, 13.6]
+Predicted heatwave: []
+-----
+
+Current testcase: 15
+	Temperature reading #1: 24.0
+	Temperature reading #2: 27.2
+	Temperature reading #3: 30.1
+	Temperature reading #4: 32.4
+	Temperature reading #5: 33.7
+	Temperature reading #6: 34.0
+	Temperature reading #7: 33.2
+	Temperature reading #8: 31.4
+	Temperature reading #9: 28.8
+	Temperature reading #10: 25.6
+	Temperature reading #11: 22.4
+	Temperature reading #12: 19.2
+	Temperature reading #13: 16.6
+	Temperature reading #14: 14.8
+	Temperature reading #15: 14.0
+	Temperature reading #16: 14.3
+	Temperature reading #17: 15.6
+	Temperature reading #18: 17.9
+	Temperature reading #19: 20.8
+
+Temperature list: [24.0, 27.2, 30.1, 32.4, 33.7, 34.0, 33.2, 31.4, 28.8, 25.6, 22.4, 19.2, 16.6, 14.8, 14.0, 14.3, 15.6, 17.9, 20.8]
+Predicted heatwave: [27.2, 30.1, 32.4, 33.7, 34.0, 33.2, 31.4, 28.8, 25.6]
+-----
+
+Current testcase: 16
+	Temperature reading #1: 21.0
+	Temperature reading #2: 22.8
+	Temperature reading #3: 24.6
+	Temperature reading #4: 26.2
+	Temperature reading #5: 27.8
+	Temperature reading #6: 29.1
+	Temperature reading #7: 30.2
+	Temperature reading #8: 31.1
+	Temperature reading #9: 31.7
+	Temperature reading #10: 32.0
+	Temperature reading #11: 32.0
+	Temperature reading #12: 31.7
+	Temperature reading #13: 31.1
+	Temperature reading #14: 30.2
+	Temperature reading #15: 29.1
+	Temperature reading #16: 27.8
+	Temperature reading #17: 26.2
+	Temperature reading #18: 24.6
+	Temperature reading #19: 22.8
+	Temperature reading #20: 21.0
+	Temperature reading #21: 19.2
+	Temperature reading #22: 17.4
+	Temperature reading #23: 15.8
+	Temperature reading #24: 14.2
+	Temperature reading #25: 12.9
+	Temperature reading #26: 11.8
+	Temperature reading #27: 10.9
+	Temperature reading #28: 10.3
+	Temperature reading #29: 10.0
+	Temperature reading #30: 10.0
+	Temperature reading #31: 10.3
+	Temperature reading #32: 10.9
+	Temperature reading #33: 11.8
+	Temperature reading #34: 12.9
+	Temperature reading #35: 14.2
+	Temperature reading #36: 15.8
+	Temperature reading #37: 17.4
+	Temperature reading #38: 19.2
+
+Temperature list: [21.0, 22.8, 24.6, 26.2, 27.8, 29.1, 30.2, 31.1, 31.7, 32.0, 32.0, 31.7, 31.1, 30.2, 29.1, 27.8, 26.2, 24.6, 22.8, 21.0, 19.2, 17.4, 15.8, 14.2, 12.9, 11.8, 10.9, 10.3, 10.0, 10.0, 10.3, 10.9, 11.8, 12.9, 14.2, 15.8, 17.4, 19.2]
+Predicted heatwave: [26.2, 27.8, 29.1, 30.2, 31.1, 31.7, 32.0, 32.0, 31.7, 31.1, 30.2, 29.1, 27.8, 26.2]
+-----
+
+Current testcase: 17
+	Temperature reading #1: 23.0
+	Temperature reading #2: 28.6
+	Temperature reading #3: 32.9
+	Temperature reading #4: 34.9
+	Temperature reading #5: 34.2
+	Temperature reading #6: 31.0
+	Temperature reading #7: 25.9
+	Temperature reading #8: 20.1
+	Temperature reading #9: 15.0
+	Temperature reading #10: 11.8
+	Temperature reading #11: 11.1
+	Temperature reading #12: 13.1
+	Temperature reading #13: 17.4
+	Temperature reading #14: 23.0
+	Temperature reading #15: 28.6
+	Temperature reading #16: 32.9
+	Temperature reading #17: 34.9
+	Temperature reading #18: 34.2
+	Temperature reading #19: 31.0
+	Temperature reading #20: 25.9
+	Temperature reading #21: 20.1
+	Temperature reading #22: 15.0
+	Temperature reading #23: 11.8
+	Temperature reading #24: 11.1
+	Temperature reading #25: 13.1
+	Temperature reading #26: 17.4
+
+Temperature list: [23.0, 28.6, 32.9, 34.9, 34.2, 31.0, 25.9, 20.1, 15.0, 11.8, 11.1, 13.1, 17.4, 23.0, 28.6, 32.9, 34.9, 34.2, 31.0, 25.9, 20.1, 15.0, 11.8, 11.1, 13.1, 17.4]
+Predicted heatwave: [28.6, 32.9, 34.9, 34.2, 31.0, 25.9]
+-----
+
+Current testcase: 18
+	Temperature reading #1: 20.0
+	Temperature reading #2: 24.9
+	Temperature reading #3: 28.7
+	Temperature reading #4: 30.8
+	Temperature reading #5: 30.6
+	Temperature reading #6: 28.2
+	Temperature reading #7: 24.1
+	Temperature reading #8: 19.2
+	Temperature reading #9: 14.4
+	Temperature reading #10: 10.8
+	Temperature reading #11: 9.1
+	Temperature reading #12: 9.6
+	Temperature reading #13: 12.4
+	Temperature reading #14: 16.7
+	Temperature reading #15: 21.7
+	Temperature reading #16: 26.3
+	Temperature reading #17: 29.7
+	Temperature reading #18: 31.0
+	Temperature reading #19: 30.0
+	Temperature reading #20: 27.0
+	Temperature reading #21: 22.5
+	Temperature reading #22: 17.5
+	Temperature reading #23: 13.0
+	Temperature reading #24: 10.0
+	Temperature reading #25: 9.0
+	Temperature reading #26: 10.3
+	Temperature reading #27: 13.7
+	Temperature reading #28: 18.3
+	Temperature reading #29: 23.3
+	Temperature reading #30: 27.6
+	Temperature reading #31: 30.4
+	Temperature reading #32: 30.9
+	Temperature reading #33: 29.2
+	Temperature reading #34: 25.6
+	Temperature reading #35: 20.8
+	Temperature reading #36: 15.9
+	Temperature reading #37: 11.8
+	Temperature reading #38: 9.4
+	Temperature reading #39: 9.2
+	Temperature reading #40: 11.3
+	Temperature reading #41: 15.1
+
+Temperature list: [20.0, 24.9, 28.7, 30.8, 30.6, 28.2, 24.1, 19.2, 14.4, 10.8, 9.1, 9.6, 12.4, 16.7, 21.7, 26.3, 29.7, 31.0, 30.0, 27.0, 22.5, 17.5, 13.0, 10.0, 9.0, 10.3, 13.7, 18.3, 23.3, 27.6, 30.4, 30.9, 29.2, 25.6, 20.8, 15.9, 11.8, 9.4, 9.2, 11.3, 15.1]
+Predicted heatwave: []
+-----
+
+Current testcase: 19
+	Temperature reading #1: 17.0
+	Temperature reading #2: 21.8
+	Temperature reading #3: 25.6
+	Temperature reading #4: 27.7
+	Temperature reading #5: 27.7
+	Temperature reading #6: 25.6
+	Temperature reading #7: 21.8
+	Temperature reading #8: 17.0
+	Temperature reading #9: 12.2
+	Temperature reading #10: 8.4
+	Temperature reading #11: 6.3
+	Temperature reading #12: 6.3
+	Temperature reading #13: 8.4
+	Temperature reading #14: 12.2
+
+Temperature list: [17.0, 21.8, 25.6, 27.7, 27.7, 25.6, 21.8, 17.0, 12.2, 8.4, 6.3, 6.3, 8.4, 12.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 20
+	Temperature reading #1: 20.0
+	Temperature reading #2: 23.1
+	Temperature reading #3: 26.0
+	Temperature reading #4: 28.5
+	Temperature reading #5: 30.4
+	Temperature reading #6: 31.6
+	Temperature reading #7: 32.0
+	Temperature reading #8: 31.6
+	Temperature reading #9: 30.4
+	Temperature reading #10: 28.5
+	Temperature reading #11: 26.0
+	Temperature reading #12: 23.1
+	Temperature reading #13: 20.0
+	Temperature reading #14: 16.9
+	Temperature reading #15: 14.0
+	Temperature reading #16: 11.5
+	Temperature reading #17: 9.6
+	Temperature reading #18: 8.4
+	Temperature reading #19: 8.0
+	Temperature reading #20: 8.4
+	Temperature reading #21: 9.6
+	Temperature reading #22: 11.5
+	Temperature reading #23: 14.0
+	Temperature reading #24: 16.9
+
+Temperature list: [20.0, 23.1, 26.0, 28.5, 30.4, 31.6, 32.0, 31.6, 30.4, 28.5, 26.0, 23.1, 20.0, 16.9, 14.0, 11.5, 9.6, 8.4, 8.0, 8.4, 9.6, 11.5, 14.0, 16.9]
+Predicted heatwave: [26.0, 28.5, 30.4, 31.6, 32.0, 31.6, 30.4, 28.5, 26.0]
+-----
+
+Current testcase: 21
+	Temperature reading #1: 19.0
+	Temperature reading #2: 24.6
+	Temperature reading #3: 29.5
+	Temperature reading #4: 33.1
+	Temperature reading #5: 34.9
+	Temperature reading #6: 34.6
+	Temperature reading #7: 32.4
+	Temperature reading #8: 28.4
+	Temperature reading #9: 23.3
+	Temperature reading #10: 17.6
+	Temperature reading #11: 12.1
+	Temperature reading #12: 7.4
+	Temperature reading #13: 4.3
+	Temperature reading #14: 3.0
+	Temperature reading #15: 3.8
+	Temperature reading #16: 6.5
+	Temperature reading #17: 10.8
+	Temperature reading #18: 16.1
+	Temperature reading #19: 21.9
+	Temperature reading #20: 27.2
+	Temperature reading #21: 31.5
+	Temperature reading #22: 34.2
+	Temperature reading #23: 35.0
+	Temperature reading #24: 33.7
+	Temperature reading #25: 30.6
+	Temperature reading #26: 25.9
+	Temperature reading #27: 20.4
+	Temperature reading #28: 14.7
+	Temperature reading #29: 9.6
+	Temperature reading #30: 5.6
+	Temperature reading #31: 3.4
+	Temperature reading #32: 3.1
+	Temperature reading #33: 4.9
+	Temperature reading #34: 8.5
+	Temperature reading #35: 13.4
+
+Temperature list: [19.0, 24.6, 29.5, 33.1, 34.9, 34.6, 32.4, 28.4, 23.3, 17.6, 12.1, 7.4, 4.3, 3.0, 3.8, 6.5, 10.8, 16.1, 21.9, 27.2, 31.5, 34.2, 35.0, 33.7, 30.6, 25.9, 20.4, 14.7, 9.6, 5.6, 3.4, 3.1, 4.9, 8.5, 13.4]
+Predicted heatwave: [29.5, 33.1, 34.9, 34.6, 32.4, 28.4]
+-----
+
+Current testcase: 22
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.7
+	Temperature reading #3: 29.3
+	Temperature reading #4: 31.5
+	Temperature reading #5: 33.3
+	Temperature reading #6: 34.5
+	Temperature reading #7: 35.0
+	Temperature reading #8: 34.8
+	Temperature reading #9: 34.0
+	Temperature reading #10: 32.5
+	Temperature reading #11: 30.5
+	Temperature reading #12: 28.0
+	Temperature reading #13: 25.4
+	Temperature reading #14: 22.6
+	Temperature reading #15: 20.0
+	Temperature reading #16: 17.5
+	Temperature reading #17: 15.5
+	Temperature reading #18: 14.0
+	Temperature reading #19: 13.2
+	Temperature reading #20: 13.0
+	Temperature reading #21: 13.5
+	Temperature reading #22: 14.7
+	Temperature reading #23: 16.5
+	Temperature reading #24: 18.7
+	Temperature reading #25: 21.3
+
+Temperature list: [24.0, 26.7, 29.3, 31.5, 33.3, 34.5, 35.0, 34.8, 34.0, 32.5, 30.5, 28.0, 25.4, 22.6, 20.0, 17.5, 15.5, 14.0, 13.2, 13.0, 13.5, 14.7, 16.5, 18.7, 21.3]
+Predicted heatwave: [26.7, 29.3, 31.5, 33.3, 34.5, 35.0, 34.8, 34.0, 32.5, 30.5, 28.0, 25.4]
+-----
+
+Current testcase: 23
+	Temperature reading #1: 25.0
+	Temperature reading #2: 27.4
+	Temperature reading #3: 29.8
+	Temperature reading #4: 31.9
+	Temperature reading #5: 33.6
+	Temperature reading #6: 34.9
+	Temperature reading #7: 35.7
+	Temperature reading #8: 36.0
+	Temperature reading #9: 35.7
+	Temperature reading #10: 34.9
+	Temperature reading #11: 33.6
+	Temperature reading #12: 31.9
+	Temperature reading #13: 29.8
+	Temperature reading #14: 27.4
+	Temperature reading #15: 25.0
+	Temperature reading #16: 22.6
+	Temperature reading #17: 20.2
+	Temperature reading #18: 18.1
+	Temperature reading #19: 16.4
+	Temperature reading #20: 15.1
+	Temperature reading #21: 14.3
+	Temperature reading #22: 14.0
+	Temperature reading #23: 14.3
+	Temperature reading #24: 15.1
+	Temperature reading #25: 16.4
+	Temperature reading #26: 18.1
+	Temperature reading #27: 20.2
+	Temperature reading #28: 22.6
+
+Temperature list: [25.0, 27.4, 29.8, 31.9, 33.6, 34.9, 35.7, 36.0, 35.7, 34.9, 33.6, 31.9, 29.8, 27.4, 25.0, 22.6, 20.2, 18.1, 16.4, 15.1, 14.3, 14.0, 14.3, 15.1, 16.4, 18.1, 20.2, 22.6]
+Predicted heatwave: [25.0, 27.4, 29.8, 31.9, 33.6, 34.9, 35.7, 36.0, 35.7, 34.9, 33.6, 31.9, 29.8, 27.4, 25.0]
+-----
+
+Current testcase: 24
+	Temperature reading #1: 25.0
+	Temperature reading #2: 32.1
+	Temperature reading #3: 35.8
+	Temperature reading #4: 34.5
+	Temperature reading #5: 28.8
+	Temperature reading #6: 21.2
+	Temperature reading #7: 15.5
+	Temperature reading #8: 14.2
+	Temperature reading #9: 17.9
+	Temperature reading #10: 25.0
+	Temperature reading #11: 32.1
+	Temperature reading #12: 35.8
+	Temperature reading #13: 34.5
+	Temperature reading #14: 28.8
+	Temperature reading #15: 21.2
+	Temperature reading #16: 15.5
+	Temperature reading #17: 14.2
+	Temperature reading #18: 17.9
+
+Temperature list: [25.0, 32.1, 35.8, 34.5, 28.8, 21.2, 15.5, 14.2, 17.9, 25.0, 32.1, 35.8, 34.5, 28.8, 21.2, 15.5, 14.2, 17.9]
+Predicted heatwave: [25.0, 32.1, 35.8, 34.5, 28.8]
+-----
+
+Current testcase: 25
+	Temperature reading #1: 23.0
+	Temperature reading #2: 26.9
+	Temperature reading #3: 30.4
+	Temperature reading #4: 33.0
+	Temperature reading #5: 34.6
+	Temperature reading #6: 35.0
+	Temperature reading #7: 34.0
+	Temperature reading #8: 31.8
+	Temperature reading #9: 28.7
+	Temperature reading #10: 25.0
+	Temperature reading #11: 21.0
+	Temperature reading #12: 17.3
+	Temperature reading #13: 14.2
+	Temperature reading #14: 12.0
+	Temperature reading #15: 11.0
+	Temperature reading #16: 11.4
+	Temperature reading #17: 13.0
+	Temperature reading #18: 15.6
+	Temperature reading #19: 19.1
+
+Temperature list: [23.0, 26.9, 30.4, 33.0, 34.6, 35.0, 34.0, 31.8, 28.7, 25.0, 21.0, 17.3, 14.2, 12.0, 11.0, 11.4, 13.0, 15.6, 19.1]
+Predicted heatwave: [26.9, 30.4, 33.0, 34.6, 35.0, 34.0, 31.8, 28.7, 25.0]
+-----
+
+Current testcase: 26
+	Temperature reading #1: 15.0
+	Temperature reading #2: 20.6
+	Temperature reading #3: 25.4
+	Temperature reading #4: 28.6
+	Temperature reading #5: 30.0
+	Temperature reading #6: 29.2
+	Temperature reading #7: 26.3
+	Temperature reading #8: 21.9
+	Temperature reading #9: 16.4
+	Temperature reading #10: 10.8
+	Temperature reading #11: 5.7
+	Temperature reading #12: 2.0
+	Temperature reading #13: 0.2
+	Temperature reading #14: 0.4
+	Temperature reading #15: 2.8
+	Temperature reading #16: 6.9
+	Temperature reading #17: 12.2
+	Temperature reading #18: 17.8
+	Temperature reading #19: 23.1
+	Temperature reading #20: 27.2
+	Temperature reading #21: 29.6
+	Temperature reading #22: 29.8
+	Temperature reading #23: 28.0
+	Temperature reading #24: 24.3
+	Temperature reading #25: 19.2
+	Temperature reading #26: 13.6
+	Temperature reading #27: 8.1
+	Temperature reading #28: 3.7
+	Temperature reading #29: 0.8
+	Temperature reading #30: 0.0
+	Temperature reading #31: 1.4
+	Temperature reading #32: 4.6
+	Temperature reading #33: 9.4
+
+Temperature list: [15.0, 20.6, 25.4, 28.6, 30.0, 29.2, 26.3, 21.9, 16.4, 10.8, 5.7, 2.0, 0.2, 0.4, 2.8, 6.9, 12.2, 17.8, 23.1, 27.2, 29.6, 29.8, 28.0, 24.3, 19.2, 13.6, 8.1, 3.7, 0.8, 0.0, 1.4, 4.6, 9.4]
+Predicted heatwave: []
+-----
+
+Current testcase: 27
+	Temperature reading #1: 17.0
+	Temperature reading #2: 21.6
+	Temperature reading #3: 25.8
+	Temperature reading #4: 29.4
+	Temperature reading #5: 32.1
+	Temperature reading #6: 33.6
+	Temperature reading #7: 34.0
+	Temperature reading #8: 33.0
+	Temperature reading #9: 30.9
+	Temperature reading #10: 27.7
+	Temperature reading #11: 23.8
+	Temperature reading #12: 19.3
+	Temperature reading #13: 14.7
+	Temperature reading #14: 10.2
+	Temperature reading #15: 6.3
+	Temperature reading #16: 3.1
+	Temperature reading #17: 1.0
+	Temperature reading #18: 0.0
+	Temperature reading #19: 0.4
+	Temperature reading #20: 1.9
+	Temperature reading #21: 4.6
+	Temperature reading #22: 8.2
+	Temperature reading #23: 12.4
+	Temperature reading #24: 17.0
+	Temperature reading #25: 21.6
+	Temperature reading #26: 25.8
+	Temperature reading #27: 29.4
+	Temperature reading #28: 32.1
+	Temperature reading #29: 33.6
+	Temperature reading #30: 34.0
+	Temperature reading #31: 33.0
+	Temperature reading #32: 30.9
+	Temperature reading #33: 27.7
+	Temperature reading #34: 23.8
+	Temperature reading #35: 19.3
+	Temperature reading #36: 14.7
+	Temperature reading #37: 10.2
+	Temperature reading #38: 6.3
+	Temperature reading #39: 3.1
+	Temperature reading #40: 1.0
+	Temperature reading #41: 0.0
+	Temperature reading #42: 0.4
+	Temperature reading #43: 1.9
+	Temperature reading #44: 4.6
+	Temperature reading #45: 8.2
+	Temperature reading #46: 12.4
+
+Temperature list: [17.0, 21.6, 25.8, 29.4, 32.1, 33.6, 34.0, 33.0, 30.9, 27.7, 23.8, 19.3, 14.7, 10.2, 6.3, 3.1, 1.0, 0.0, 0.4, 1.9, 4.6, 8.2, 12.4, 17.0, 21.6, 25.8, 29.4, 32.1, 33.6, 34.0, 33.0, 30.9, 27.7, 23.8, 19.3, 14.7, 10.2, 6.3, 3.1, 1.0, 0.0, 0.4, 1.9, 4.6, 8.2, 12.4]
+Predicted heatwave: [25.8, 29.4, 32.1, 33.6, 34.0, 33.0, 30.9, 27.7]
+-----
+
+Current testcase: 28
+	Temperature reading #1: 25.0
+	Temperature reading #2: 28.6
+	Temperature reading #3: 31.7
+	Temperature reading #4: 34.0
+	Temperature reading #5: 35.0
+	Temperature reading #6: 34.6
+	Temperature reading #7: 33.0
+	Temperature reading #8: 30.3
+	Temperature reading #9: 26.8
+	Temperature reading #10: 23.2
+	Temperature reading #11: 19.7
+	Temperature reading #12: 17.0
+	Temperature reading #13: 15.4
+	Temperature reading #14: 15.0
+	Temperature reading #15: 16.0
+	Temperature reading #16: 18.3
+	Temperature reading #17: 21.4
+
+Temperature list: [25.0, 28.6, 31.7, 34.0, 35.0, 34.6, 33.0, 30.3, 26.8, 23.2, 19.7, 17.0, 15.4, 15.0, 16.0, 18.3, 21.4]
+Predicted heatwave: [25.0, 28.6, 31.7, 34.0, 35.0, 34.6, 33.0, 30.3, 26.8]
+-----
+
+Current testcase: 29
+	Temperature reading #1: 22.0
+	Temperature reading #2: 24.4
+	Temperature reading #3: 26.6
+	Temperature reading #4: 28.6
+	Temperature reading #5: 30.2
+	Temperature reading #6: 31.4
+	Temperature reading #7: 31.9
+	Temperature reading #8: 31.9
+	Temperature reading #9: 31.4
+	Temperature reading #10: 30.2
+	Temperature reading #11: 28.6
+	Temperature reading #12: 26.6
+	Temperature reading #13: 24.4
+	Temperature reading #14: 22.0
+	Temperature reading #15: 19.6
+	Temperature reading #16: 17.4
+	Temperature reading #17: 15.4
+	Temperature reading #18: 13.8
+	Temperature reading #19: 12.6
+	Temperature reading #20: 12.1
+	Temperature reading #21: 12.1
+	Temperature reading #22: 12.6
+	Temperature reading #23: 13.8
+	Temperature reading #24: 15.4
+	Temperature reading #25: 17.4
+	Temperature reading #26: 19.6
+
+Temperature list: [22.0, 24.4, 26.6, 28.6, 30.2, 31.4, 31.9, 31.9, 31.4, 30.2, 28.6, 26.6, 24.4, 22.0, 19.6, 17.4, 15.4, 13.8, 12.6, 12.1, 12.1, 12.6, 13.8, 15.4, 17.4, 19.6]
+Predicted heatwave: [26.6, 28.6, 30.2, 31.4, 31.9, 31.9, 31.4, 30.2, 28.6, 26.6]
+-----
+
+Current testcase: 30
+	Temperature reading #1: 16.0
+	Temperature reading #2: 20.6
+	Temperature reading #3: 24.8
+	Temperature reading #4: 28.4
+	Temperature reading #5: 31.1
+	Temperature reading #6: 32.6
+	Temperature reading #7: 33.0
+	Temperature reading #8: 32.0
+	Temperature reading #9: 29.9
+	Temperature reading #10: 26.7
+	Temperature reading #11: 22.8
+	Temperature reading #12: 18.3
+	Temperature reading #13: 13.7
+	Temperature reading #14: 9.2
+	Temperature reading #15: 5.3
+	Temperature reading #16: 2.1
+	Temperature reading #17: -0.0
+	Temperature reading #18: -1.0
+	Temperature reading #19: -0.6
+	Temperature reading #20: 0.9
+	Temperature reading #21: 3.6
+	Temperature reading #22: 7.2
+	Temperature reading #23: 11.4
+	Temperature reading #24: 16.0
+	Temperature reading #25: 20.6
+	Temperature reading #26: 24.8
+	Temperature reading #27: 28.4
+	Temperature reading #28: 31.1
+	Temperature reading #29: 32.6
+	Temperature reading #30: 33.0
+	Temperature reading #31: 32.0
+	Temperature reading #32: 29.9
+	Temperature reading #33: 26.7
+	Temperature reading #34: 22.8
+	Temperature reading #35: 18.3
+	Temperature reading #36: 13.7
+	Temperature reading #37: 9.2
+	Temperature reading #38: 5.3
+	Temperature reading #39: 2.1
+	Temperature reading #40: -0.0
+	Temperature reading #41: -1.0
+	Temperature reading #42: -0.6
+	Temperature reading #43: 0.9
+	Temperature reading #44: 3.6
+	Temperature reading #45: 7.2
+	Temperature reading #46: 11.4
+
+Temperature list: [16.0, 20.6, 24.8, 28.4, 31.1, 32.6, 33.0, 32.0, 29.9, 26.7, 22.8, 18.3, 13.7, 9.2, 5.3, 2.1, -0.0, -1.0, -0.6, 0.9, 3.6, 7.2, 11.4, 16.0, 20.6, 24.8, 28.4, 31.1, 32.6, 33.0, 32.0, 29.9, 26.7, 22.8, 18.3, 13.7, 9.2, 5.3, 2.1, -0.0, -1.0, -0.6, 0.9, 3.6, 7.2, 11.4]
+Predicted heatwave: [28.4, 31.1, 32.6, 33.0, 32.0, 29.9, 26.7]
+-----
+
+Current testcase: 31
+	Temperature reading #1: 23.0
+	Temperature reading #2: 27.7
+	Temperature reading #3: 31.7
+	Temperature reading #4: 34.3
+	Temperature reading #5: 35.0
+	Temperature reading #6: 33.8
+	Temperature reading #7: 30.8
+	Temperature reading #8: 26.6
+	Temperature reading #9: 21.8
+	Temperature reading #10: 17.2
+	Temperature reading #11: 13.5
+	Temperature reading #12: 11.4
+	Temperature reading #13: 11.1
+	Temperature reading #14: 12.8
+	Temperature reading #15: 16.1
+	Temperature reading #16: 20.6
+	Temperature reading #17: 25.4
+	Temperature reading #18: 29.9
+	Temperature reading #19: 33.2
+	Temperature reading #20: 34.9
+	Temperature reading #21: 34.6
+	Temperature reading #22: 32.5
+	Temperature reading #23: 28.8
+	Temperature reading #24: 24.2
+	Temperature reading #25: 19.4
+	Temperature reading #26: 15.2
+	Temperature reading #27: 12.2
+	Temperature reading #28: 11.0
+	Temperature reading #29: 11.7
+	Temperature reading #30: 14.3
+	Temperature reading #31: 18.3
+
+Temperature list: [23.0, 27.7, 31.7, 34.3, 35.0, 33.8, 30.8, 26.6, 21.8, 17.2, 13.5, 11.4, 11.1, 12.8, 16.1, 20.6, 25.4, 29.9, 33.2, 34.9, 34.6, 32.5, 28.8, 24.2, 19.4, 15.2, 12.2, 11.0, 11.7, 14.3, 18.3]
+Predicted heatwave: [27.7, 31.7, 34.3, 35.0, 33.8, 30.8, 26.6]
+-----
+
+Current testcase: 32
+	Temperature reading #1: 22.0
+	Temperature reading #2: 25.8
+	Temperature reading #3: 29.1
+	Temperature reading #4: 31.5
+	Temperature reading #5: 32.8
+	Temperature reading #6: 32.8
+	Temperature reading #7: 31.5
+	Temperature reading #8: 29.1
+	Temperature reading #9: 25.8
+	Temperature reading #10: 22.0
+	Temperature reading #11: 18.2
+	Temperature reading #12: 14.9
+	Temperature reading #13: 12.5
+	Temperature reading #14: 11.2
+	Temperature reading #15: 11.2
+	Temperature reading #16: 12.5
+	Temperature reading #17: 14.9
+	Temperature reading #18: 18.2
+
+Temperature list: [22.0, 25.8, 29.1, 31.5, 32.8, 32.8, 31.5, 29.1, 25.8, 22.0, 18.2, 14.9, 12.5, 11.2, 11.2, 12.5, 14.9, 18.2]
+Predicted heatwave: [25.8, 29.1, 31.5, 32.8, 32.8, 31.5, 29.1, 25.8]
+-----
+
+Current testcase: 33
+	Temperature reading #1: 19.0
+	Temperature reading #2: 21.6
+	Temperature reading #3: 24.1
+	Temperature reading #4: 26.5
+	Temperature reading #5: 28.6
+	Temperature reading #6: 30.5
+	Temperature reading #7: 32.0
+	Temperature reading #8: 33.1
+	Temperature reading #9: 33.8
+	Temperature reading #10: 34.0
+	Temperature reading #11: 33.8
+	Temperature reading #12: 33.1
+	Temperature reading #13: 32.0
+	Temperature reading #14: 30.5
+	Temperature reading #15: 28.6
+	Temperature reading #16: 26.5
+	Temperature reading #17: 24.1
+	Temperature reading #18: 21.6
+	Temperature reading #19: 19.0
+	Temperature reading #20: 16.4
+	Temperature reading #21: 13.9
+	Temperature reading #22: 11.5
+	Temperature reading #23: 9.4
+	Temperature reading #24: 7.5
+	Temperature reading #25: 6.0
+	Temperature reading #26: 4.9
+	Temperature reading #27: 4.2
+	Temperature reading #28: 4.0
+	Temperature reading #29: 4.2
+	Temperature reading #30: 4.9
+	Temperature reading #31: 6.0
+	Temperature reading #32: 7.5
+	Temperature reading #33: 9.4
+	Temperature reading #34: 11.5
+	Temperature reading #35: 13.9
+	Temperature reading #36: 16.4
+
+Temperature list: [19.0, 21.6, 24.1, 26.5, 28.6, 30.5, 32.0, 33.1, 33.8, 34.0, 33.8, 33.1, 32.0, 30.5, 28.6, 26.5, 24.1, 21.6, 19.0, 16.4, 13.9, 11.5, 9.4, 7.5, 6.0, 4.9, 4.2, 4.0, 4.2, 4.9, 6.0, 7.5, 9.4, 11.5, 13.9, 16.4]
+Predicted heatwave: [26.5, 28.6, 30.5, 32.0, 33.1, 33.8, 34.0, 33.8, 33.1, 32.0, 30.5, 28.6, 26.5]
+-----
+
+Current testcase: 34
+	Temperature reading #1: 23.0
+	Temperature reading #2: 26.2
+	Temperature reading #3: 29.1
+	Temperature reading #4: 31.3
+	Temperature reading #5: 32.6
+	Temperature reading #6: 33.0
+	Temperature reading #7: 32.3
+	Temperature reading #8: 30.6
+	Temperature reading #9: 28.2
+	Temperature reading #10: 25.1
+	Temperature reading #11: 21.9
+	Temperature reading #12: 18.8
+	Temperature reading #13: 16.1
+	Temperature reading #14: 14.2
+	Temperature reading #15: 13.1
+	Temperature reading #16: 13.1
+	Temperature reading #17: 14.2
+	Temperature reading #18: 16.1
+	Temperature reading #19: 18.8
+	Temperature reading #20: 21.9
+	Temperature reading #21: 25.1
+	Temperature reading #22: 28.2
+	Temperature reading #23: 30.6
+	Temperature reading #24: 32.3
+	Temperature reading #25: 33.0
+	Temperature reading #26: 32.6
+	Temperature reading #27: 31.3
+	Temperature reading #28: 29.1
+	Temperature reading #29: 26.2
+	Temperature reading #30: 23.0
+	Temperature reading #31: 19.8
+	Temperature reading #32: 16.9
+	Temperature reading #33: 14.7
+	Temperature reading #34: 13.4
+	Temperature reading #35: 13.0
+	Temperature reading #36: 13.7
+	Temperature reading #37: 15.4
+	Temperature reading #38: 17.8
+	Temperature reading #39: 20.9
+	Temperature reading #40: 24.1
+	Temperature reading #41: 27.2
+	Temperature reading #42: 29.9
+	Temperature reading #43: 31.8
+	Temperature reading #44: 32.9
+	Temperature reading #45: 32.9
+	Temperature reading #46: 31.8
+	Temperature reading #47: 29.9
+	Temperature reading #48: 27.2
+	Temperature reading #49: 24.1
+	Temperature reading #50: 20.9
+	Temperature reading #51: 17.8
+	Temperature reading #52: 15.4
+	Temperature reading #53: 13.7
+	Temperature reading #54: 13.0
+	Temperature reading #55: 13.4
+	Temperature reading #56: 14.7
+	Temperature reading #57: 16.9
+	Temperature reading #58: 19.8
+
+Temperature list: [23.0, 26.2, 29.1, 31.3, 32.6, 33.0, 32.3, 30.6, 28.2, 25.1, 21.9, 18.8, 16.1, 14.2, 13.1, 13.1, 14.2, 16.1, 18.8, 21.9, 25.1, 28.2, 30.6, 32.3, 33.0, 32.6, 31.3, 29.1, 26.2, 23.0, 19.8, 16.9, 14.7, 13.4, 13.0, 13.7, 15.4, 17.8, 20.9, 24.1, 27.2, 29.9, 31.8, 32.9, 32.9, 31.8, 29.9, 27.2, 24.1, 20.9, 17.8, 15.4, 13.7, 13.0, 13.4, 14.7, 16.9, 19.8]
+Predicted heatwave: [26.2, 29.1, 31.3, 32.6, 33.0, 32.3, 30.6, 28.2, 25.1]
+-----
+
+Current testcase: 35
+	Temperature reading #1: 17.0
+	Temperature reading #2: 22.7
+	Temperature reading #3: 27.6
+	Temperature reading #4: 30.9
+	Temperature reading #5: 32.0
+	Temperature reading #6: 30.9
+	Temperature reading #7: 27.6
+	Temperature reading #8: 22.7
+	Temperature reading #9: 17.0
+	Temperature reading #10: 11.3
+	Temperature reading #11: 6.4
+	Temperature reading #12: 3.1
+	Temperature reading #13: 2.0
+	Temperature reading #14: 3.1
+	Temperature reading #15: 6.4
+	Temperature reading #16: 11.3
+
+Temperature list: [17.0, 22.7, 27.6, 30.9, 32.0, 30.9, 27.6, 22.7, 17.0, 11.3, 6.4, 3.1, 2.0, 3.1, 6.4, 11.3]
+Predicted heatwave: [27.6, 30.9, 32.0, 30.9, 27.6]
+-----
+
+Current testcase: 36
+	Temperature reading #1: 21.0
+	Temperature reading #2: 23.1
+	Temperature reading #3: 25.1
+	Temperature reading #4: 27.0
+	Temperature reading #5: 28.7
+	Temperature reading #6: 30.2
+	Temperature reading #7: 31.4
+	Temperature reading #8: 32.3
+	Temperature reading #9: 32.8
+	Temperature reading #10: 33.0
+	Temperature reading #11: 32.8
+	Temperature reading #12: 32.3
+	Temperature reading #13: 31.4
+	Temperature reading #14: 30.2
+	Temperature reading #15: 28.7
+	Temperature reading #16: 27.0
+	Temperature reading #17: 25.1
+	Temperature reading #18: 23.1
+	Temperature reading #19: 21.0
+	Temperature reading #20: 18.9
+	Temperature reading #21: 16.9
+	Temperature reading #22: 15.0
+	Temperature reading #23: 13.3
+	Temperature reading #24: 11.8
+	Temperature reading #25: 10.6
+	Temperature reading #26: 9.7
+	Temperature reading #27: 9.2
+	Temperature reading #28: 9.0
+	Temperature reading #29: 9.2
+	Temperature reading #30: 9.7
+	Temperature reading #31: 10.6
+	Temperature reading #32: 11.8
+	Temperature reading #33: 13.3
+	Temperature reading #34: 15.0
+	Temperature reading #35: 16.9
+	Temperature reading #36: 18.9
+
+Temperature list: [21.0, 23.1, 25.1, 27.0, 28.7, 30.2, 31.4, 32.3, 32.8, 33.0, 32.8, 32.3, 31.4, 30.2, 28.7, 27.0, 25.1, 23.1, 21.0, 18.9, 16.9, 15.0, 13.3, 11.8, 10.6, 9.7, 9.2, 9.0, 9.2, 9.7, 10.6, 11.8, 13.3, 15.0, 16.9, 18.9]
+Predicted heatwave: [25.1, 27.0, 28.7, 30.2, 31.4, 32.3, 32.8, 33.0, 32.8, 32.3, 31.4, 30.2, 28.7, 27.0, 25.1]
+-----
+
+Current testcase: 37
+	Temperature reading #1: 23.0
+	Temperature reading #2: 26.2
+	Temperature reading #3: 29.2
+	Temperature reading #4: 31.6
+	Temperature reading #5: 33.2
+	Temperature reading #6: 34.0
+	Temperature reading #7: 33.7
+	Temperature reading #8: 32.5
+	Temperature reading #9: 30.5
+	Temperature reading #10: 27.8
+	Temperature reading #11: 24.6
+	Temperature reading #12: 21.4
+	Temperature reading #13: 18.2
+	Temperature reading #14: 15.5
+	Temperature reading #15: 13.5
+	Temperature reading #16: 12.3
+	Temperature reading #17: 12.0
+	Temperature reading #18: 12.8
+	Temperature reading #19: 14.4
+	Temperature reading #20: 16.8
+	Temperature reading #21: 19.8
+
+Temperature list: [23.0, 26.2, 29.2, 31.6, 33.2, 34.0, 33.7, 32.5, 30.5, 27.8, 24.6, 21.4, 18.2, 15.5, 13.5, 12.3, 12.0, 12.8, 14.4, 16.8, 19.8]
+Predicted heatwave: [26.2, 29.2, 31.6, 33.2, 34.0, 33.7, 32.5, 30.5, 27.8]
+-----
+
+Current testcase: 38
+	Temperature reading #1: 16.0
+	Temperature reading #2: 21.4
+	Temperature reading #3: 26.4
+	Temperature reading #4: 30.3
+	Temperature reading #5: 32.9
+	Temperature reading #6: 34.0
+	Temperature reading #7: 33.4
+	Temperature reading #8: 31.1
+	Temperature reading #9: 27.5
+	Temperature reading #10: 22.7
+	Temperature reading #11: 17.4
+	Temperature reading #12: 11.9
+	Temperature reading #13: 6.8
+	Temperature reading #14: 2.6
+	Temperature reading #15: -0.4
+	Temperature reading #16: -1.9
+	Temperature reading #17: -1.7
+	Temperature reading #18: 0.2
+	Temperature reading #19: 3.5
+	Temperature reading #20: 8.0
+	Temperature reading #21: 13.3
+	Temperature reading #22: 18.7
+	Temperature reading #23: 24.0
+	Temperature reading #24: 28.5
+	Temperature reading #25: 31.8
+	Temperature reading #26: 33.7
+	Temperature reading #27: 33.9
+	Temperature reading #28: 32.4
+	Temperature reading #29: 29.4
+	Temperature reading #30: 25.2
+	Temperature reading #31: 20.1
+	Temperature reading #32: 14.6
+	Temperature reading #33: 9.3
+	Temperature reading #34: 4.5
+	Temperature reading #35: 0.9
+	Temperature reading #36: -1.4
+	Temperature reading #37: -2.0
+	Temperature reading #38: -0.9
+	Temperature reading #39: 1.7
+	Temperature reading #40: 5.6
+	Temperature reading #41: 10.6
+
+Temperature list: [16.0, 21.4, 26.4, 30.3, 32.9, 34.0, 33.4, 31.1, 27.5, 22.7, 17.4, 11.9, 6.8, 2.6, -0.4, -1.9, -1.7, 0.2, 3.5, 8.0, 13.3, 18.7, 24.0, 28.5, 31.8, 33.7, 33.9, 32.4, 29.4, 25.2, 20.1, 14.6, 9.3, 4.5, 0.9, -1.4, -2.0, -0.9, 1.7, 5.6, 10.6]
+Predicted heatwave: [26.4, 30.3, 32.9, 34.0, 33.4, 31.1, 27.5]
+-----
+
+Current testcase: 39
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.3
+	Temperature reading #3: 28.4
+	Temperature reading #4: 30.3
+	Temperature reading #5: 31.9
+	Temperature reading #6: 33.1
+	Temperature reading #7: 33.8
+	Temperature reading #8: 34.0
+	Temperature reading #9: 33.7
+	Temperature reading #10: 32.8
+	Temperature reading #11: 31.6
+	Temperature reading #12: 29.9
+	Temperature reading #13: 27.9
+	Temperature reading #14: 25.7
+	Temperature reading #15: 23.4
+	Temperature reading #16: 21.2
+	Temperature reading #17: 19.1
+	Temperature reading #18: 17.2
+	Temperature reading #19: 15.7
+	Temperature reading #20: 14.7
+	Temperature reading #21: 14.1
+	Temperature reading #22: 14.0
+	Temperature reading #23: 14.5
+	Temperature reading #24: 15.4
+	Temperature reading #25: 16.8
+	Temperature reading #26: 18.6
+	Temperature reading #27: 20.6
+	Temperature reading #28: 22.9
+	Temperature reading #29: 25.1
+	Temperature reading #30: 27.4
+	Temperature reading #31: 29.4
+	Temperature reading #32: 31.2
+	Temperature reading #33: 32.6
+	Temperature reading #34: 33.5
+	Temperature reading #35: 34.0
+	Temperature reading #36: 33.9
+	Temperature reading #37: 33.3
+	Temperature reading #38: 32.3
+	Temperature reading #39: 30.8
+	Temperature reading #40: 28.9
+	Temperature reading #41: 26.8
+	Temperature reading #42: 24.6
+	Temperature reading #43: 22.3
+	Temperature reading #44: 20.1
+	Temperature reading #45: 18.1
+	Temperature reading #46: 16.4
+	Temperature reading #47: 15.2
+	Temperature reading #48: 14.3
+	Temperature reading #49: 14.0
+	Temperature reading #50: 14.2
+	Temperature reading #51: 14.9
+	Temperature reading #52: 16.1
+	Temperature reading #53: 17.7
+	Temperature reading #54: 19.6
+	Temperature reading #55: 21.7
+
+Temperature list: [24.0, 26.3, 28.4, 30.3, 31.9, 33.1, 33.8, 34.0, 33.7, 32.8, 31.6, 29.9, 27.9, 25.7, 23.4, 21.2, 19.1, 17.2, 15.7, 14.7, 14.1, 14.0, 14.5, 15.4, 16.8, 18.6, 20.6, 22.9, 25.1, 27.4, 29.4, 31.2, 32.6, 33.5, 34.0, 33.9, 33.3, 32.3, 30.8, 28.9, 26.8, 24.6, 22.3, 20.1, 18.1, 16.4, 15.2, 14.3, 14.0, 14.2, 14.9, 16.1, 17.7, 19.6, 21.7]
+Predicted heatwave: [26.3, 28.4, 30.3, 31.9, 33.1, 33.8, 34.0, 33.7, 32.8, 31.6, 29.9, 27.9, 25.7]
+-----
+
+Current testcase: 40
+	Temperature reading #1: 24.0
+	Temperature reading #2: 27.9
+	Temperature reading #3: 31.4
+	Temperature reading #4: 34.0
+	Temperature reading #5: 35.6
+	Temperature reading #6: 36.0
+	Temperature reading #7: 35.0
+	Temperature reading #8: 32.8
+	Temperature reading #9: 29.7
+	Temperature reading #10: 26.0
+	Temperature reading #11: 22.0
+	Temperature reading #12: 18.3
+	Temperature reading #13: 15.2
+	Temperature reading #14: 13.0
+	Temperature reading #15: 12.0
+	Temperature reading #16: 12.4
+	Temperature reading #17: 14.0
+	Temperature reading #18: 16.6
+	Temperature reading #19: 20.1
+	Temperature reading #20: 24.0
+	Temperature reading #21: 27.9
+	Temperature reading #22: 31.4
+	Temperature reading #23: 34.0
+	Temperature reading #24: 35.6
+	Temperature reading #25: 36.0
+	Temperature reading #26: 35.0
+	Temperature reading #27: 32.8
+	Temperature reading #28: 29.7
+	Temperature reading #29: 26.0
+	Temperature reading #30: 22.0
+	Temperature reading #31: 18.3
+	Temperature reading #32: 15.2
+	Temperature reading #33: 13.0
+	Temperature reading #34: 12.0
+	Temperature reading #35: 12.4
+	Temperature reading #36: 14.0
+	Temperature reading #37: 16.6
+	Temperature reading #38: 20.1
+
+Temperature list: [24.0, 27.9, 31.4, 34.0, 35.6, 36.0, 35.0, 32.8, 29.7, 26.0, 22.0, 18.3, 15.2, 13.0, 12.0, 12.4, 14.0, 16.6, 20.1, 24.0, 27.9, 31.4, 34.0, 35.6, 36.0, 35.0, 32.8, 29.7, 26.0, 22.0, 18.3, 15.2, 13.0, 12.0, 12.4, 14.0, 16.6, 20.1]
+Predicted heatwave: [27.9, 31.4, 34.0, 35.6, 36.0, 35.0, 32.8, 29.7, 26.0]
+-----
+
+Current testcase: 41
+	Temperature reading #1: 24.0
+	Temperature reading #2: 30.0
+	Temperature reading #3: 34.4
+	Temperature reading #4: 36.0
+	Temperature reading #5: 34.4
+	Temperature reading #6: 30.0
+	Temperature reading #7: 24.0
+	Temperature reading #8: 18.0
+	Temperature reading #9: 13.6
+	Temperature reading #10: 12.0
+	Temperature reading #11: 13.6
+	Temperature reading #12: 18.0
+
+Temperature list: [24.0, 30.0, 34.4, 36.0, 34.4, 30.0, 24.0, 18.0, 13.6, 12.0, 13.6, 18.0]
+Predicted heatwave: [30.0, 34.4, 36.0, 34.4, 30.0]
+-----
+
+Current testcase: 42
+	Temperature reading #1: 16.0
+	Temperature reading #2: 25.0
+	Temperature reading #3: 31.6
+	Temperature reading #4: 34.0
+	Temperature reading #5: 31.6
+	Temperature reading #6: 25.0
+	Temperature reading #7: 16.0
+	Temperature reading #8: 7.0
+	Temperature reading #9: 0.4
+	Temperature reading #10: -2.0
+	Temperature reading #11: 0.4
+	Temperature reading #12: 7.0
+	Temperature reading #13: 16.0
+	Temperature reading #14: 25.0
+	Temperature reading #15: 31.6
+	Temperature reading #16: 34.0
+	Temperature reading #17: 31.6
+	Temperature reading #18: 25.0
+	Temperature reading #19: 16.0
+	Temperature reading #20: 7.0
+	Temperature reading #21: 0.4
+	Temperature reading #22: -2.0
+	Temperature reading #23: 0.4
+	Temperature reading #24: 7.0
+	Temperature reading #25: 16.0
+	Temperature reading #26: 25.0
+	Temperature reading #27: 31.6
+	Temperature reading #28: 34.0
+	Temperature reading #29: 31.6
+	Temperature reading #30: 25.0
+	Temperature reading #31: 16.0
+	Temperature reading #32: 7.0
+	Temperature reading #33: 0.4
+	Temperature reading #34: -2.0
+	Temperature reading #35: 0.4
+	Temperature reading #36: 7.0
+
+Temperature list: [16.0, 25.0, 31.6, 34.0, 31.6, 25.0, 16.0, 7.0, 0.4, -2.0, 0.4, 7.0, 16.0, 25.0, 31.6, 34.0, 31.6, 25.0, 16.0, 7.0, 0.4, -2.0, 0.4, 7.0, 16.0, 25.0, 31.6, 34.0, 31.6, 25.0, 16.0, 7.0, 0.4, -2.0, 0.4, 7.0]
+Predicted heatwave: [25.0, 31.6, 34.0, 31.6, 25.0]
+-----
+
+Current testcase: 43
+	Temperature reading #1: 21.0
+	Temperature reading #2: 24.6
+	Temperature reading #3: 27.8
+	Temperature reading #4: 30.2
+	Temperature reading #5: 31.7
+	Temperature reading #6: 32.0
+	Temperature reading #7: 31.1
+	Temperature reading #8: 29.1
+	Temperature reading #9: 26.2
+	Temperature reading #10: 22.8
+	Temperature reading #11: 19.2
+	Temperature reading #12: 15.8
+	Temperature reading #13: 12.9
+	Temperature reading #14: 10.9
+	Temperature reading #15: 10.0
+	Temperature reading #16: 10.3
+	Temperature reading #17: 11.8
+	Temperature reading #18: 14.2
+	Temperature reading #19: 17.4
+
+Temperature list: [21.0, 24.6, 27.8, 30.2, 31.7, 32.0, 31.1, 29.1, 26.2, 22.8, 19.2, 15.8, 12.9, 10.9, 10.0, 10.3, 11.8, 14.2, 17.4]
+Predicted heatwave: [27.8, 30.2, 31.7, 32.0, 31.1, 29.1, 26.2]
+-----
+
+Current testcase: 44
+	Temperature reading #1: 22.0
+	Temperature reading #2: 25.1
+	Temperature reading #3: 27.9
+	Temperature reading #4: 30.3
+	Temperature reading #5: 32.0
+	Temperature reading #6: 32.9
+	Temperature reading #7: 32.9
+	Temperature reading #8: 32.0
+	Temperature reading #9: 30.3
+	Temperature reading #10: 27.9
+	Temperature reading #11: 25.1
+	Temperature reading #12: 22.0
+	Temperature reading #13: 18.9
+	Temperature reading #14: 16.1
+	Temperature reading #15: 13.7
+	Temperature reading #16: 12.0
+	Temperature reading #17: 11.1
+	Temperature reading #18: 11.1
+	Temperature reading #19: 12.0
+	Temperature reading #20: 13.7
+	Temperature reading #21: 16.1
+	Temperature reading #22: 18.9
+
+Temperature list: [22.0, 25.1, 27.9, 30.3, 32.0, 32.9, 32.9, 32.0, 30.3, 27.9, 25.1, 22.0, 18.9, 16.1, 13.7, 12.0, 11.1, 11.1, 12.0, 13.7, 16.1, 18.9]
+Predicted heatwave: [25.1, 27.9, 30.3, 32.0, 32.9, 32.9, 32.0, 30.3, 27.9, 25.1]
+-----
+
+Current testcase: 45
+	Temperature reading #1: 16.0
+	Temperature reading #2: 22.5
+	Temperature reading #3: 28.3
+	Temperature reading #4: 32.7
+	Temperature reading #5: 35.4
+	Temperature reading #6: 35.9
+	Temperature reading #7: 34.3
+	Temperature reading #8: 30.7
+	Temperature reading #9: 25.5
+	Temperature reading #10: 19.3
+	Temperature reading #11: 12.7
+	Temperature reading #12: 6.5
+	Temperature reading #13: 1.3
+	Temperature reading #14: -2.3
+	Temperature reading #15: -3.9
+	Temperature reading #16: -3.4
+	Temperature reading #17: -0.7
+	Temperature reading #18: 3.7
+	Temperature reading #19: 9.5
+
+Temperature list: [16.0, 22.5, 28.3, 32.7, 35.4, 35.9, 34.3, 30.7, 25.5, 19.3, 12.7, 6.5, 1.3, -2.3, -3.9, -3.4, -0.7, 3.7, 9.5]
+Predicted heatwave: [28.3, 32.7, 35.4, 35.9, 34.3, 30.7, 25.5]
+-----
+
+Current testcase: 46
+	Temperature reading #1: 25.0
+	Temperature reading #2: 30.3
+	Temperature reading #3: 34.3
+	Temperature reading #4: 36.0
+	Temperature reading #5: 35.0
+	Temperature reading #6: 31.5
+	Temperature reading #7: 26.4
+	Temperature reading #8: 21.0
+	Temperature reading #9: 16.5
+	Temperature reading #10: 14.2
+	Temperature reading #11: 14.5
+	Temperature reading #12: 17.5
+	Temperature reading #13: 22.3
+	Temperature reading #14: 27.7
+	Temperature reading #15: 32.5
+	Temperature reading #16: 35.5
+	Temperature reading #17: 35.8
+	Temperature reading #18: 33.5
+	Temperature reading #19: 29.0
+	Temperature reading #20: 23.6
+	Temperature reading #21: 18.5
+	Temperature reading #22: 15.0
+	Temperature reading #23: 14.0
+	Temperature reading #24: 15.7
+	Temperature reading #25: 19.7
+
+Temperature list: [25.0, 30.3, 34.3, 36.0, 35.0, 31.5, 26.4, 21.0, 16.5, 14.2, 14.5, 17.5, 22.3, 27.7, 32.5, 35.5, 35.8, 33.5, 29.0, 23.6, 18.5, 15.0, 14.0, 15.7, 19.7]
+Predicted heatwave: [25.0, 30.3, 34.3, 36.0, 35.0, 31.5, 26.4]
+-----
+
+Current testcase: 47
+	Temperature reading #1: 16.0
+	Temperature reading #2: 30.9
+	Temperature reading #3: 34.5
+	Temperature reading #4: 24.2
+	Temperature reading #5: 7.8
+	Temperature reading #6: -2.5
+	Temperature reading #7: 1.1
+	Temperature reading #8: 16.0
+	Temperature reading #9: 30.9
+	Temperature reading #10: 34.5
+	Temperature reading #11: 24.2
+	Temperature reading #12: 7.8
+	Temperature reading #13: -2.5
+	Temperature reading #14: 1.1
+
+Temperature list: [16.0, 30.9, 34.5, 24.2, 7.8, -2.5, 1.1, 16.0, 30.9, 34.5, 24.2, 7.8, -2.5, 1.1]
+Predicted heatwave: []
+-----
+
+Current testcase: 48
+	Temperature reading #1: 22.0
+	Temperature reading #2: 27.1
+	Temperature reading #3: 31.2
+	Temperature reading #4: 33.6
+	Temperature reading #5: 33.8
+	Temperature reading #6: 31.8
+	Temperature reading #7: 27.9
+	Temperature reading #8: 22.9
+	Temperature reading #9: 17.7
+	Temperature reading #10: 13.4
+	Temperature reading #11: 10.6
+	Temperature reading #12: 10.1
+	Temperature reading #13: 11.8
+	Temperature reading #14: 15.4
+	Temperature reading #15: 20.3
+	Temperature reading #16: 25.5
+	Temperature reading #17: 30.0
+	Temperature reading #18: 33.0
+	Temperature reading #19: 34.0
+	Temperature reading #20: 32.7
+	Temperature reading #21: 29.3
+	Temperature reading #22: 24.6
+	Temperature reading #23: 19.4
+	Temperature reading #24: 14.7
+	Temperature reading #25: 11.3
+	Temperature reading #26: 10.0
+	Temperature reading #27: 11.0
+	Temperature reading #28: 14.0
+	Temperature reading #29: 18.5
+	Temperature reading #30: 23.7
+	Temperature reading #31: 28.6
+	Temperature reading #32: 32.2
+	Temperature reading #33: 33.9
+	Temperature reading #34: 33.4
+	Temperature reading #35: 30.6
+	Temperature reading #36: 26.3
+	Temperature reading #37: 21.1
+	Temperature reading #38: 16.1
+	Temperature reading #39: 12.2
+	Temperature reading #40: 10.2
+	Temperature reading #41: 10.4
+	Temperature reading #42: 12.8
+	Temperature reading #43: 16.9
+
+Temperature list: [22.0, 27.1, 31.2, 33.6, 33.8, 31.8, 27.9, 22.9, 17.7, 13.4, 10.6, 10.1, 11.8, 15.4, 20.3, 25.5, 30.0, 33.0, 34.0, 32.7, 29.3, 24.6, 19.4, 14.7, 11.3, 10.0, 11.0, 14.0, 18.5, 23.7, 28.6, 32.2, 33.9, 33.4, 30.6, 26.3, 21.1, 16.1, 12.2, 10.2, 10.4, 12.8, 16.9]
+Predicted heatwave: [27.1, 31.2, 33.6, 33.8, 31.8, 27.9]
+-----
+
+Current testcase: 49
+	Temperature reading #1: 24.0
+	Temperature reading #2: 28.8
+	Temperature reading #3: 32.4
+	Temperature reading #4: 34.0
+	Temperature reading #5: 33.0
+	Temperature reading #6: 29.9
+	Temperature reading #7: 25.3
+	Temperature reading #8: 20.3
+	Temperature reading #9: 16.3
+	Temperature reading #10: 14.2
+	Temperature reading #11: 14.5
+	Temperature reading #12: 17.2
+	Temperature reading #13: 21.5
+	Temperature reading #14: 26.5
+	Temperature reading #15: 30.8
+	Temperature reading #16: 33.5
+	Temperature reading #17: 33.8
+	Temperature reading #18: 31.7
+	Temperature reading #19: 27.7
+	Temperature reading #20: 22.7
+	Temperature reading #21: 18.1
+	Temperature reading #22: 15.0
+	Temperature reading #23: 14.0
+	Temperature reading #24: 15.6
+	Temperature reading #25: 19.2
+
+Temperature list: [24.0, 28.8, 32.4, 34.0, 33.0, 29.9, 25.3, 20.3, 16.3, 14.2, 14.5, 17.2, 21.5, 26.5, 30.8, 33.5, 33.8, 31.7, 27.7, 22.7, 18.1, 15.0, 14.0, 15.6, 19.2]
+Predicted heatwave: [28.8, 32.4, 34.0, 33.0, 29.9, 25.3]
+-----
+
+Current testcase: 50
+	Temperature reading #1: 23.0
+	Temperature reading #2: 31.5
+	Temperature reading #3: 35.0
+	Temperature reading #4: 31.5
+	Temperature reading #5: 23.0
+	Temperature reading #6: 14.5
+	Temperature reading #7: 11.0
+	Temperature reading #8: 14.5
+	Temperature reading #9: 23.0
+	Temperature reading #10: 31.5
+	Temperature reading #11: 35.0
+	Temperature reading #12: 31.5
+	Temperature reading #13: 23.0
+	Temperature reading #14: 14.5
+	Temperature reading #15: 11.0
+	Temperature reading #16: 14.5
+	Temperature reading #17: 23.0
+	Temperature reading #18: 31.5
+	Temperature reading #19: 35.0
+	Temperature reading #20: 31.5
+	Temperature reading #21: 23.0
+	Temperature reading #22: 14.5
+	Temperature reading #23: 11.0
+	Temperature reading #24: 14.5
+
+Temperature list: [23.0, 31.5, 35.0, 31.5, 23.0, 14.5, 11.0, 14.5, 23.0, 31.5, 35.0, 31.5, 23.0, 14.5, 11.0, 14.5, 23.0, 31.5, 35.0, 31.5, 23.0, 14.5, 11.0, 14.5]
+Predicted heatwave: []
+-----
+
+Current testcase: 51
+	Temperature reading #1: 21.0
+	Temperature reading #2: 24.6
+	Temperature reading #3: 28.0
+	Temperature reading #4: 30.9
+	Temperature reading #5: 33.3
+	Temperature reading #6: 35.0
+	Temperature reading #7: 35.9
+	Temperature reading #8: 35.9
+	Temperature reading #9: 35.0
+	Temperature reading #10: 33.3
+	Temperature reading #11: 30.9
+	Temperature reading #12: 28.0
+	Temperature reading #13: 24.6
+	Temperature reading #14: 21.0
+	Temperature reading #15: 17.4
+	Temperature reading #16: 14.0
+	Temperature reading #17: 11.1
+	Temperature reading #18: 8.7
+	Temperature reading #19: 7.0
+	Temperature reading #20: 6.1
+	Temperature reading #21: 6.1
+	Temperature reading #22: 7.0
+	Temperature reading #23: 8.7
+	Temperature reading #24: 11.1
+	Temperature reading #25: 14.0
+	Temperature reading #26: 17.4
+
+Temperature list: [21.0, 24.6, 28.0, 30.9, 33.3, 35.0, 35.9, 35.9, 35.0, 33.3, 30.9, 28.0, 24.6, 21.0, 17.4, 14.0, 11.1, 8.7, 7.0, 6.1, 6.1, 7.0, 8.7, 11.1, 14.0, 17.4]
+Predicted heatwave: [28.0, 30.9, 33.3, 35.0, 35.9, 35.9, 35.0, 33.3, 30.9, 28.0]
+-----
+
+Current testcase: 52
+	Temperature reading #1: 17.0
+	Temperature reading #2: 22.3
+	Temperature reading #3: 26.0
+	Temperature reading #4: 27.0
+	Temperature reading #5: 25.0
+	Temperature reading #6: 20.6
+	Temperature reading #7: 15.2
+	Temperature reading #8: 10.3
+	Temperature reading #9: 7.4
+	Temperature reading #10: 7.4
+	Temperature reading #11: 10.3
+	Temperature reading #12: 15.2
+	Temperature reading #13: 20.6
+	Temperature reading #14: 25.0
+	Temperature reading #15: 27.0
+	Temperature reading #16: 26.0
+	Temperature reading #17: 22.3
+	Temperature reading #18: 17.0
+	Temperature reading #19: 11.7
+	Temperature reading #20: 8.0
+	Temperature reading #21: 7.0
+	Temperature reading #22: 9.0
+	Temperature reading #23: 13.4
+	Temperature reading #24: 18.8
+	Temperature reading #25: 23.7
+	Temperature reading #26: 26.6
+	Temperature reading #27: 26.6
+	Temperature reading #28: 23.7
+	Temperature reading #29: 18.8
+	Temperature reading #30: 13.4
+	Temperature reading #31: 9.0
+	Temperature reading #32: 7.0
+	Temperature reading #33: 8.0
+	Temperature reading #34: 11.7
+
+Temperature list: [17.0, 22.3, 26.0, 27.0, 25.0, 20.6, 15.2, 10.3, 7.4, 7.4, 10.3, 15.2, 20.6, 25.0, 27.0, 26.0, 22.3, 17.0, 11.7, 8.0, 7.0, 9.0, 13.4, 18.8, 23.7, 26.6, 26.6, 23.7, 18.8, 13.4, 9.0, 7.0, 8.0, 11.7]
+Predicted heatwave: []
+-----
+
+Current testcase: 53
+	Temperature reading #1: 16.0
+	Temperature reading #2: 21.0
+	Temperature reading #3: 25.6
+	Temperature reading #4: 29.3
+	Temperature reading #5: 31.8
+	Temperature reading #6: 33.0
+	Temperature reading #7: 32.6
+	Temperature reading #8: 30.7
+	Temperature reading #9: 27.6
+	Temperature reading #10: 23.4
+	Temperature reading #11: 18.5
+	Temperature reading #12: 13.5
+	Temperature reading #13: 8.6
+	Temperature reading #14: 4.4
+	Temperature reading #15: 1.3
+	Temperature reading #16: -0.6
+	Temperature reading #17: -1.0
+	Temperature reading #18: 0.2
+	Temperature reading #19: 2.7
+	Temperature reading #20: 6.4
+	Temperature reading #21: 11.0
+
+Temperature list: [16.0, 21.0, 25.6, 29.3, 31.8, 33.0, 32.6, 30.7, 27.6, 23.4, 18.5, 13.5, 8.6, 4.4, 1.3, -0.6, -1.0, 0.2, 2.7, 6.4, 11.0]
+Predicted heatwave: [25.6, 29.3, 31.8, 33.0, 32.6, 30.7, 27.6]
+-----
+
+Current testcase: 54
+	Temperature reading #1: 24.0
+	Temperature reading #2: 31.8
+	Temperature reading #3: 33.7
+	Temperature reading #4: 28.3
+	Temperature reading #5: 19.7
+	Temperature reading #6: 14.3
+	Temperature reading #7: 16.2
+	Temperature reading #8: 24.0
+	Temperature reading #9: 31.8
+	Temperature reading #10: 33.7
+	Temperature reading #11: 28.3
+	Temperature reading #12: 19.7
+	Temperature reading #13: 14.3
+	Temperature reading #14: 16.2
+
+Temperature list: [24.0, 31.8, 33.7, 28.3, 19.7, 14.3, 16.2, 24.0, 31.8, 33.7, 28.3, 19.7, 14.3, 16.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 55
+	Temperature reading #1: 25.0
+	Temperature reading #2: 33.2
+	Temperature reading #3: 35.9
+	Temperature reading #4: 31.5
+	Temperature reading #5: 22.7
+	Temperature reading #6: 15.5
+	Temperature reading #7: 14.5
+	Temperature reading #8: 20.5
+	Temperature reading #9: 29.5
+	Temperature reading #10: 35.5
+	Temperature reading #11: 34.5
+	Temperature reading #12: 27.3
+	Temperature reading #13: 18.5
+	Temperature reading #14: 14.1
+	Temperature reading #15: 16.8
+
+Temperature list: [25.0, 33.2, 35.9, 31.5, 22.7, 15.5, 14.5, 20.5, 29.5, 35.5, 34.5, 27.3, 18.5, 14.1, 16.8]
+Predicted heatwave: []
+-----
+
+Current testcase: 56
+	Temperature reading #1: 20.0
+	Temperature reading #2: 24.2
+	Temperature reading #3: 28.1
+	Temperature reading #4: 31.3
+	Temperature reading #5: 33.6
+	Temperature reading #6: 34.8
+	Temperature reading #7: 34.8
+	Temperature reading #8: 33.6
+	Temperature reading #9: 31.3
+	Temperature reading #10: 28.1
+	Temperature reading #11: 24.2
+	Temperature reading #12: 20.0
+	Temperature reading #13: 15.8
+	Temperature reading #14: 11.9
+	Temperature reading #15: 8.7
+	Temperature reading #16: 6.4
+	Temperature reading #17: 5.2
+	Temperature reading #18: 5.2
+	Temperature reading #19: 6.4
+	Temperature reading #20: 8.7
+	Temperature reading #21: 11.9
+	Temperature reading #22: 15.8
+
+Temperature list: [20.0, 24.2, 28.1, 31.3, 33.6, 34.8, 34.8, 33.6, 31.3, 28.1, 24.2, 20.0, 15.8, 11.9, 8.7, 6.4, 5.2, 5.2, 6.4, 8.7, 11.9, 15.8]
+Predicted heatwave: [28.1, 31.3, 33.6, 34.8, 34.8, 33.6, 31.3, 28.1]
+-----
+
+Current testcase: 57
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.7
+	Temperature reading #3: 29.2
+	Temperature reading #4: 31.3
+	Temperature reading #5: 32.9
+	Temperature reading #6: 33.8
+	Temperature reading #7: 34.0
+	Temperature reading #8: 33.4
+	Temperature reading #9: 32.2
+	Temperature reading #10: 30.3
+	Temperature reading #11: 28.0
+	Temperature reading #12: 25.4
+	Temperature reading #13: 22.6
+	Temperature reading #14: 20.0
+	Temperature reading #15: 17.7
+	Temperature reading #16: 15.8
+	Temperature reading #17: 14.6
+	Temperature reading #18: 14.0
+	Temperature reading #19: 14.2
+	Temperature reading #20: 15.1
+	Temperature reading #21: 16.7
+	Temperature reading #22: 18.8
+	Temperature reading #23: 21.3
+
+Temperature list: [24.0, 26.7, 29.2, 31.3, 32.9, 33.8, 34.0, 33.4, 32.2, 30.3, 28.0, 25.4, 22.6, 20.0, 17.7, 15.8, 14.6, 14.0, 14.2, 15.1, 16.7, 18.8, 21.3]
+Predicted heatwave: [26.7, 29.2, 31.3, 32.9, 33.8, 34.0, 33.4, 32.2, 30.3, 28.0, 25.4]
+-----
+
+Current testcase: 58
+	Temperature reading #1: 17.0
+	Temperature reading #2: 18.7
+	Temperature reading #3: 20.4
+	Temperature reading #4: 22.0
+	Temperature reading #5: 23.5
+	Temperature reading #6: 24.8
+	Temperature reading #7: 25.9
+	Temperature reading #8: 26.8
+	Temperature reading #9: 27.5
+	Temperature reading #10: 27.9
+	Temperature reading #11: 28.0
+	Temperature reading #12: 27.9
+	Temperature reading #13: 27.5
+	Temperature reading #14: 26.8
+	Temperature reading #15: 25.9
+	Temperature reading #16: 24.8
+	Temperature reading #17: 23.5
+	Temperature reading #18: 22.0
+	Temperature reading #19: 20.4
+	Temperature reading #20: 18.7
+	Temperature reading #21: 17.0
+	Temperature reading #22: 15.3
+	Temperature reading #23: 13.6
+	Temperature reading #24: 12.0
+	Temperature reading #25: 10.5
+	Temperature reading #26: 9.2
+	Temperature reading #27: 8.1
+	Temperature reading #28: 7.2
+	Temperature reading #29: 6.5
+	Temperature reading #30: 6.1
+	Temperature reading #31: 6.0
+	Temperature reading #32: 6.1
+	Temperature reading #33: 6.5
+	Temperature reading #34: 7.2
+	Temperature reading #35: 8.1
+	Temperature reading #36: 9.2
+	Temperature reading #37: 10.5
+	Temperature reading #38: 12.0
+	Temperature reading #39: 13.6
+	Temperature reading #40: 15.3
+
+Temperature list: [17.0, 18.7, 20.4, 22.0, 23.5, 24.8, 25.9, 26.8, 27.5, 27.9, 28.0, 27.9, 27.5, 26.8, 25.9, 24.8, 23.5, 22.0, 20.4, 18.7, 17.0, 15.3, 13.6, 12.0, 10.5, 9.2, 8.1, 7.2, 6.5, 6.1, 6.0, 6.1, 6.5, 7.2, 8.1, 9.2, 10.5, 12.0, 13.6, 15.3]
+Predicted heatwave: []
+-----
+
+Current testcase: 59
+	Temperature reading #1: 22.0
+	Temperature reading #2: 27.1
+	Temperature reading #3: 31.1
+	Temperature reading #4: 32.9
+	Temperature reading #5: 32.3
+	Temperature reading #6: 29.3
+	Temperature reading #7: 24.6
+	Temperature reading #8: 19.4
+	Temperature reading #9: 14.7
+	Temperature reading #10: 11.7
+	Temperature reading #11: 11.1
+	Temperature reading #12: 12.9
+	Temperature reading #13: 16.9
+
+Temperature list: [22.0, 27.1, 31.1, 32.9, 32.3, 29.3, 24.6, 19.4, 14.7, 11.7, 11.1, 12.9, 16.9]
+Predicted heatwave: [27.1, 31.1, 32.9, 32.3, 29.3]
+-----
+
+Current testcase: 60
+	Temperature reading #1: 17.0
+	Temperature reading #2: 20.8
+	Temperature reading #3: 24.1
+	Temperature reading #4: 26.5
+	Temperature reading #5: 27.8
+	Temperature reading #6: 27.8
+	Temperature reading #7: 26.5
+	Temperature reading #8: 24.1
+	Temperature reading #9: 20.8
+	Temperature reading #10: 17.0
+	Temperature reading #11: 13.2
+	Temperature reading #12: 9.9
+	Temperature reading #13: 7.5
+	Temperature reading #14: 6.2
+	Temperature reading #15: 6.2
+	Temperature reading #16: 7.5
+	Temperature reading #17: 9.9
+	Temperature reading #18: 13.2
+
+Temperature list: [17.0, 20.8, 24.1, 26.5, 27.8, 27.8, 26.5, 24.1, 20.8, 17.0, 13.2, 9.9, 7.5, 6.2, 6.2, 7.5, 9.9, 13.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 61
+	Temperature reading #1: 19.0
+	Temperature reading #2: 23.8
+	Temperature reading #3: 28.0
+	Temperature reading #4: 31.1
+	Temperature reading #5: 32.8
+	Temperature reading #6: 32.8
+	Temperature reading #7: 31.1
+	Temperature reading #8: 28.0
+	Temperature reading #9: 23.8
+	Temperature reading #10: 19.0
+	Temperature reading #11: 14.2
+	Temperature reading #12: 10.0
+	Temperature reading #13: 6.9
+	Temperature reading #14: 5.2
+	Temperature reading #15: 5.2
+	Temperature reading #16: 6.9
+	Temperature reading #17: 10.0
+	Temperature reading #18: 14.2
+	Temperature reading #19: 19.0
+	Temperature reading #20: 23.8
+	Temperature reading #21: 28.0
+	Temperature reading #22: 31.1
+	Temperature reading #23: 32.8
+	Temperature reading #24: 32.8
+	Temperature reading #25: 31.1
+	Temperature reading #26: 28.0
+	Temperature reading #27: 23.8
+	Temperature reading #28: 19.0
+	Temperature reading #29: 14.2
+	Temperature reading #30: 10.0
+	Temperature reading #31: 6.9
+	Temperature reading #32: 5.2
+	Temperature reading #33: 5.2
+	Temperature reading #34: 6.9
+	Temperature reading #35: 10.0
+	Temperature reading #36: 14.2
+
+Temperature list: [19.0, 23.8, 28.0, 31.1, 32.8, 32.8, 31.1, 28.0, 23.8, 19.0, 14.2, 10.0, 6.9, 5.2, 5.2, 6.9, 10.0, 14.2, 19.0, 23.8, 28.0, 31.1, 32.8, 32.8, 31.1, 28.0, 23.8, 19.0, 14.2, 10.0, 6.9, 5.2, 5.2, 6.9, 10.0, 14.2]
+Predicted heatwave: [28.0, 31.1, 32.8, 32.8, 31.1, 28.0]
+-----
+
+Current testcase: 62
+	Temperature reading #1: 19.0
+	Temperature reading #2: 25.9
+	Temperature reading #3: 31.6
+	Temperature reading #4: 35.2
+	Temperature reading #5: 35.9
+	Temperature reading #6: 33.7
+	Temperature reading #7: 29.0
+	Temperature reading #8: 22.5
+	Temperature reading #9: 15.5
+	Temperature reading #10: 9.0
+	Temperature reading #11: 4.3
+	Temperature reading #12: 2.1
+	Temperature reading #13: 2.8
+	Temperature reading #14: 6.4
+	Temperature reading #15: 12.1
+	Temperature reading #16: 19.0
+	Temperature reading #17: 25.9
+	Temperature reading #18: 31.6
+	Temperature reading #19: 35.2
+	Temperature reading #20: 35.9
+	Temperature reading #21: 33.7
+	Temperature reading #22: 29.0
+	Temperature reading #23: 22.5
+	Temperature reading #24: 15.5
+	Temperature reading #25: 9.0
+	Temperature reading #26: 4.3
+	Temperature reading #27: 2.1
+	Temperature reading #28: 2.8
+	Temperature reading #29: 6.4
+	Temperature reading #30: 12.1
+	Temperature reading #31: 19.0
+	Temperature reading #32: 25.9
+	Temperature reading #33: 31.6
+	Temperature reading #34: 35.2
+	Temperature reading #35: 35.9
+	Temperature reading #36: 33.7
+	Temperature reading #37: 29.0
+	Temperature reading #38: 22.5
+	Temperature reading #39: 15.5
+	Temperature reading #40: 9.0
+	Temperature reading #41: 4.3
+	Temperature reading #42: 2.1
+	Temperature reading #43: 2.8
+	Temperature reading #44: 6.4
+	Temperature reading #45: 12.1
+
+Temperature list: [19.0, 25.9, 31.6, 35.2, 35.9, 33.7, 29.0, 22.5, 15.5, 9.0, 4.3, 2.1, 2.8, 6.4, 12.1, 19.0, 25.9, 31.6, 35.2, 35.9, 33.7, 29.0, 22.5, 15.5, 9.0, 4.3, 2.1, 2.8, 6.4, 12.1, 19.0, 25.9, 31.6, 35.2, 35.9, 33.7, 29.0, 22.5, 15.5, 9.0, 4.3, 2.1, 2.8, 6.4, 12.1]
+Predicted heatwave: [25.9, 31.6, 35.2, 35.9, 33.7, 29.0]
+-----
+
+Current testcase: 63
+	Temperature reading #1: 21.0
+	Temperature reading #2: 26.6
+	Temperature reading #3: 30.9
+	Temperature reading #4: 32.9
+	Temperature reading #5: 32.2
+	Temperature reading #6: 29.0
+	Temperature reading #7: 23.9
+	Temperature reading #8: 18.1
+	Temperature reading #9: 13.0
+	Temperature reading #10: 9.8
+	Temperature reading #11: 9.1
+	Temperature reading #12: 11.1
+	Temperature reading #13: 15.4
+	Temperature reading #14: 21.0
+	Temperature reading #15: 26.6
+	Temperature reading #16: 30.9
+	Temperature reading #17: 32.9
+	Temperature reading #18: 32.2
+	Temperature reading #19: 29.0
+	Temperature reading #20: 23.9
+	Temperature reading #21: 18.1
+	Temperature reading #22: 13.0
+	Temperature reading #23: 9.8
+	Temperature reading #24: 9.1
+	Temperature reading #25: 11.1
+	Temperature reading #26: 15.4
+	Temperature reading #27: 21.0
+	Temperature reading #28: 26.6
+	Temperature reading #29: 30.9
+	Temperature reading #30: 32.9
+	Temperature reading #31: 32.2
+	Temperature reading #32: 29.0
+	Temperature reading #33: 23.9
+	Temperature reading #34: 18.1
+	Temperature reading #35: 13.0
+	Temperature reading #36: 9.8
+	Temperature reading #37: 9.1
+	Temperature reading #38: 11.1
+	Temperature reading #39: 15.4
+
+Temperature list: [21.0, 26.6, 30.9, 32.9, 32.2, 29.0, 23.9, 18.1, 13.0, 9.8, 9.1, 11.1, 15.4, 21.0, 26.6, 30.9, 32.9, 32.2, 29.0, 23.9, 18.1, 13.0, 9.8, 9.1, 11.1, 15.4, 21.0, 26.6, 30.9, 32.9, 32.2, 29.0, 23.9, 18.1, 13.0, 9.8, 9.1, 11.1, 15.4]
+Predicted heatwave: [26.6, 30.9, 32.9, 32.2, 29.0]
+-----
+
+Current testcase: 64
+	Temperature reading #1: 16.0
+	Temperature reading #2: 18.2
+	Temperature reading #3: 20.3
+	Temperature reading #4: 22.3
+	Temperature reading #5: 24.0
+	Temperature reading #6: 25.3
+	Temperature reading #7: 26.3
+	Temperature reading #8: 26.9
+	Temperature reading #9: 27.0
+	Temperature reading #10: 26.6
+	Temperature reading #11: 25.9
+	Temperature reading #12: 24.7
+	Temperature reading #13: 23.2
+	Temperature reading #14: 21.3
+	Temperature reading #15: 19.3
+	Temperature reading #16: 17.1
+	Temperature reading #17: 14.9
+	Temperature reading #18: 12.7
+	Temperature reading #19: 10.7
+	Temperature reading #20: 8.8
+	Temperature reading #21: 7.3
+	Temperature reading #22: 6.1
+	Temperature reading #23: 5.4
+	Temperature reading #24: 5.0
+	Temperature reading #25: 5.1
+	Temperature reading #26: 5.7
+	Temperature reading #27: 6.7
+	Temperature reading #28: 8.0
+	Temperature reading #29: 9.7
+	Temperature reading #30: 11.7
+	Temperature reading #31: 13.8
+
+Temperature list: [16.0, 18.2, 20.3, 22.3, 24.0, 25.3, 26.3, 26.9, 27.0, 26.6, 25.9, 24.7, 23.2, 21.3, 19.3, 17.1, 14.9, 12.7, 10.7, 8.8, 7.3, 6.1, 5.4, 5.0, 5.1, 5.7, 6.7, 8.0, 9.7, 11.7, 13.8]
+Predicted heatwave: []
+-----
+
+Current testcase: 65
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.9
+	Temperature reading #3: 29.6
+	Temperature reading #4: 31.8
+	Temperature reading #5: 33.3
+	Temperature reading #6: 34.0
+	Temperature reading #7: 33.7
+	Temperature reading #8: 32.7
+	Temperature reading #9: 30.8
+	Temperature reading #10: 28.3
+	Temperature reading #11: 25.5
+	Temperature reading #12: 22.5
+	Temperature reading #13: 19.7
+	Temperature reading #14: 17.2
+	Temperature reading #15: 15.3
+	Temperature reading #16: 14.3
+	Temperature reading #17: 14.0
+	Temperature reading #18: 14.7
+	Temperature reading #19: 16.2
+	Temperature reading #20: 18.4
+	Temperature reading #21: 21.1
+
+Temperature list: [24.0, 26.9, 29.6, 31.8, 33.3, 34.0, 33.7, 32.7, 30.8, 28.3, 25.5, 22.5, 19.7, 17.2, 15.3, 14.3, 14.0, 14.7, 16.2, 18.4, 21.1]
+Predicted heatwave: [26.9, 29.6, 31.8, 33.3, 34.0, 33.7, 32.7, 30.8, 28.3, 25.5]
+-----
+
+Current testcase: 66
+	Temperature reading #1: 16.0
+	Temperature reading #2: 18.1
+	Temperature reading #3: 20.1
+	Temperature reading #4: 21.9
+	Temperature reading #5: 23.6
+	Temperature reading #6: 25.0
+	Temperature reading #7: 26.0
+	Temperature reading #8: 26.7
+	Temperature reading #9: 27.0
+	Temperature reading #10: 26.9
+	Temperature reading #11: 26.4
+	Temperature reading #12: 25.5
+	Temperature reading #13: 24.3
+	Temperature reading #14: 22.8
+	Temperature reading #15: 21.0
+	Temperature reading #16: 19.1
+	Temperature reading #17: 17.0
+	Temperature reading #18: 15.0
+	Temperature reading #19: 12.9
+	Temperature reading #20: 11.0
+	Temperature reading #21: 9.2
+	Temperature reading #22: 7.7
+	Temperature reading #23: 6.5
+	Temperature reading #24: 5.6
+	Temperature reading #25: 5.1
+	Temperature reading #26: 5.0
+	Temperature reading #27: 5.3
+	Temperature reading #28: 6.0
+	Temperature reading #29: 7.0
+	Temperature reading #30: 8.4
+	Temperature reading #31: 10.1
+	Temperature reading #32: 11.9
+	Temperature reading #33: 13.9
+
+Temperature list: [16.0, 18.1, 20.1, 21.9, 23.6, 25.0, 26.0, 26.7, 27.0, 26.9, 26.4, 25.5, 24.3, 22.8, 21.0, 19.1, 17.0, 15.0, 12.9, 11.0, 9.2, 7.7, 6.5, 5.6, 5.1, 5.0, 5.3, 6.0, 7.0, 8.4, 10.1, 11.9, 13.9]
+Predicted heatwave: []
+-----
+
+Current testcase: 67
+	Temperature reading #1: 17.0
+	Temperature reading #2: 19.8
+	Temperature reading #3: 22.3
+	Temperature reading #4: 24.5
+	Temperature reading #5: 26.0
+	Temperature reading #6: 26.9
+	Temperature reading #7: 26.9
+	Temperature reading #8: 26.2
+	Temperature reading #9: 24.8
+	Temperature reading #10: 22.7
+	Temperature reading #11: 20.2
+	Temperature reading #12: 17.5
+	Temperature reading #13: 14.7
+	Temperature reading #14: 12.1
+	Temperature reading #15: 9.8
+	Temperature reading #16: 8.2
+	Temperature reading #17: 7.2
+	Temperature reading #18: 7.0
+	Temperature reading #19: 7.6
+	Temperature reading #20: 8.9
+	Temperature reading #21: 10.9
+	Temperature reading #22: 13.3
+	Temperature reading #23: 16.1
+	Temperature reading #24: 18.9
+	Temperature reading #25: 21.5
+	Temperature reading #26: 23.8
+	Temperature reading #27: 25.6
+	Temperature reading #28: 26.7
+	Temperature reading #29: 27.0
+	Temperature reading #30: 26.5
+	Temperature reading #31: 25.3
+	Temperature reading #32: 23.5
+	Temperature reading #33: 21.1
+	Temperature reading #34: 18.4
+	Temperature reading #35: 15.6
+	Temperature reading #36: 12.9
+	Temperature reading #37: 10.5
+	Temperature reading #38: 8.7
+	Temperature reading #39: 7.5
+	Temperature reading #40: 7.0
+	Temperature reading #41: 7.3
+	Temperature reading #42: 8.4
+	Temperature reading #43: 10.2
+	Temperature reading #44: 12.5
+	Temperature reading #45: 15.1
+	Temperature reading #46: 17.9
+	Temperature reading #47: 20.7
+	Temperature reading #48: 23.1
+	Temperature reading #49: 25.1
+	Temperature reading #50: 26.4
+	Temperature reading #51: 27.0
+	Temperature reading #52: 26.8
+	Temperature reading #53: 25.8
+	Temperature reading #54: 24.2
+	Temperature reading #55: 21.9
+	Temperature reading #56: 19.3
+	Temperature reading #57: 16.5
+	Temperature reading #58: 13.8
+	Temperature reading #59: 11.3
+	Temperature reading #60: 9.2
+	Temperature reading #61: 7.8
+	Temperature reading #62: 7.1
+	Temperature reading #63: 7.1
+	Temperature reading #64: 8.0
+	Temperature reading #65: 9.5
+	Temperature reading #66: 11.7
+	Temperature reading #67: 14.2
+
+Temperature list: [17.0, 19.8, 22.3, 24.5, 26.0, 26.9, 26.9, 26.2, 24.8, 22.7, 20.2, 17.5, 14.7, 12.1, 9.8, 8.2, 7.2, 7.0, 7.6, 8.9, 10.9, 13.3, 16.1, 18.9, 21.5, 23.8, 25.6, 26.7, 27.0, 26.5, 25.3, 23.5, 21.1, 18.4, 15.6, 12.9, 10.5, 8.7, 7.5, 7.0, 7.3, 8.4, 10.2, 12.5, 15.1, 17.9, 20.7, 23.1, 25.1, 26.4, 27.0, 26.8, 25.8, 24.2, 21.9, 19.3, 16.5, 13.8, 11.3, 9.2, 7.8, 7.1, 7.1, 8.0, 9.5, 11.7, 14.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 68
+	Temperature reading #1: 24.0
+	Temperature reading #2: 26.3
+	Temperature reading #3: 28.6
+	Temperature reading #4: 30.7
+	Temperature reading #5: 32.5
+	Temperature reading #6: 34.0
+	Temperature reading #7: 35.1
+	Temperature reading #8: 35.8
+	Temperature reading #9: 36.0
+	Temperature reading #10: 35.8
+	Temperature reading #11: 35.1
+	Temperature reading #12: 34.0
+	Temperature reading #13: 32.5
+	Temperature reading #14: 30.7
+	Temperature reading #15: 28.6
+	Temperature reading #16: 26.3
+	Temperature reading #17: 24.0
+	Temperature reading #18: 21.7
+	Temperature reading #19: 19.4
+	Temperature reading #20: 17.3
+	Temperature reading #21: 15.5
+	Temperature reading #22: 14.0
+	Temperature reading #23: 12.9
+	Temperature reading #24: 12.2
+	Temperature reading #25: 12.0
+	Temperature reading #26: 12.2
+	Temperature reading #27: 12.9
+	Temperature reading #28: 14.0
+	Temperature reading #29: 15.5
+	Temperature reading #30: 17.3
+	Temperature reading #31: 19.4
+	Temperature reading #32: 21.7
+
+Temperature list: [24.0, 26.3, 28.6, 30.7, 32.5, 34.0, 35.1, 35.8, 36.0, 35.8, 35.1, 34.0, 32.5, 30.7, 28.6, 26.3, 24.0, 21.7, 19.4, 17.3, 15.5, 14.0, 12.9, 12.2, 12.0, 12.2, 12.9, 14.0, 15.5, 17.3, 19.4, 21.7]
+Predicted heatwave: [26.3, 28.6, 30.7, 32.5, 34.0, 35.1, 35.8, 36.0, 35.8, 35.1, 34.0, 32.5, 30.7, 28.6, 26.3]
+-----
+
+Current testcase: 69
+	Temperature reading #1: 15.0
+	Temperature reading #2: 21.8
+	Temperature reading #3: 27.9
+	Temperature reading #4: 32.6
+	Temperature reading #5: 35.4
+	Temperature reading #6: 35.9
+	Temperature reading #7: 34.2
+	Temperature reading #8: 30.5
+	Temperature reading #9: 25.0
+	Temperature reading #10: 18.5
+	Temperature reading #11: 11.5
+	Temperature reading #12: 5.0
+	Temperature reading #13: -0.5
+	Temperature reading #14: -4.2
+	Temperature reading #15: -5.9
+	Temperature reading #16: -5.4
+	Temperature reading #17: -2.6
+	Temperature reading #18: 2.1
+	Temperature reading #19: 8.2
+	Temperature reading #20: 15.0
+	Temperature reading #21: 21.8
+	Temperature reading #22: 27.9
+	Temperature reading #23: 32.6
+	Temperature reading #24: 35.4
+	Temperature reading #25: 35.9
+	Temperature reading #26: 34.2
+	Temperature reading #27: 30.5
+	Temperature reading #28: 25.0
+	Temperature reading #29: 18.5
+	Temperature reading #30: 11.5
+	Temperature reading #31: 5.0
+	Temperature reading #32: -0.5
+	Temperature reading #33: -4.2
+	Temperature reading #34: -5.9
+	Temperature reading #35: -5.4
+	Temperature reading #36: -2.6
+	Temperature reading #37: 2.1
+	Temperature reading #38: 8.2
+
+Temperature list: [15.0, 21.8, 27.9, 32.6, 35.4, 35.9, 34.2, 30.5, 25.0, 18.5, 11.5, 5.0, -0.5, -4.2, -5.9, -5.4, -2.6, 2.1, 8.2, 15.0, 21.8, 27.9, 32.6, 35.4, 35.9, 34.2, 30.5, 25.0, 18.5, 11.5, 5.0, -0.5, -4.2, -5.9, -5.4, -2.6, 2.1, 8.2]
+Predicted heatwave: [27.9, 32.6, 35.4, 35.9, 34.2, 30.5, 25.0]
+-----
+
+Current testcase: 70
+	Temperature reading #1: 23.0
+	Temperature reading #2: 27.9
+	Temperature reading #3: 31.9
+	Temperature reading #4: 34.4
+	Temperature reading #5: 34.9
+	Temperature reading #6: 33.4
+	Temperature reading #7: 30.1
+	Temperature reading #8: 25.5
+	Temperature reading #9: 20.5
+	Temperature reading #10: 15.9
+	Temperature reading #11: 12.6
+	Temperature reading #12: 11.1
+	Temperature reading #13: 11.6
+	Temperature reading #14: 14.1
+	Temperature reading #15: 18.1
+	Temperature reading #16: 23.0
+	Temperature reading #17: 27.9
+	Temperature reading #18: 31.9
+	Temperature reading #19: 34.4
+	Temperature reading #20: 34.9
+	Temperature reading #21: 33.4
+	Temperature reading #22: 30.1
+	Temperature reading #23: 25.5
+	Temperature reading #24: 20.5
+	Temperature reading #25: 15.9
+	Temperature reading #26: 12.6
+	Temperature reading #27: 11.1
+	Temperature reading #28: 11.6
+	Temperature reading #29: 14.1
+	Temperature reading #30: 18.1
+	Temperature reading #31: 23.0
+	Temperature reading #32: 27.9
+	Temperature reading #33: 31.9
+	Temperature reading #34: 34.4
+	Temperature reading #35: 34.9
+	Temperature reading #36: 33.4
+	Temperature reading #37: 30.1
+	Temperature reading #38: 25.5
+	Temperature reading #39: 20.5
+	Temperature reading #40: 15.9
+	Temperature reading #41: 12.6
+	Temperature reading #42: 11.1
+	Temperature reading #43: 11.6
+	Temperature reading #44: 14.1
+	Temperature reading #45: 18.1
+
+Temperature list: [23.0, 27.9, 31.9, 34.4, 34.9, 33.4, 30.1, 25.5, 20.5, 15.9, 12.6, 11.1, 11.6, 14.1, 18.1, 23.0, 27.9, 31.9, 34.4, 34.9, 33.4, 30.1, 25.5, 20.5, 15.9, 12.6, 11.1, 11.6, 14.1, 18.1, 23.0, 27.9, 31.9, 34.4, 34.9, 33.4, 30.1, 25.5, 20.5, 15.9, 12.6, 11.1, 11.6, 14.1, 18.1]
+Predicted heatwave: [27.9, 31.9, 34.4, 34.9, 33.4, 30.1, 25.5]
+-----
+
+Current testcase: 71
+	Temperature reading #1: 16.0
+	Temperature reading #2: 18.7
+	Temperature reading #3: 21.2
+	Temperature reading #4: 23.3
+	Temperature reading #5: 24.9
+	Temperature reading #6: 25.8
+	Temperature reading #7: 26.0
+	Temperature reading #8: 25.4
+	Temperature reading #9: 24.2
+	Temperature reading #10: 22.3
+	Temperature reading #11: 20.0
+	Temperature reading #12: 17.4
+	Temperature reading #13: 14.6
+	Temperature reading #14: 12.0
+	Temperature reading #15: 9.7
+	Temperature reading #16: 7.8
+	Temperature reading #17: 6.6
+	Temperature reading #18: 6.0
+	Temperature reading #19: 6.2
+	Temperature reading #20: 7.1
+	Temperature reading #21: 8.7
+	Temperature reading #22: 10.8
+	Temperature reading #23: 13.3
+	Temperature reading #24: 16.0
+	Temperature reading #25: 18.7
+	Temperature reading #26: 21.2
+	Temperature reading #27: 23.3
+	Temperature reading #28: 24.9
+	Temperature reading #29: 25.8
+	Temperature reading #30: 26.0
+	Temperature reading #31: 25.4
+	Temperature reading #32: 24.2
+	Temperature reading #33: 22.3
+	Temperature reading #34: 20.0
+	Temperature reading #35: 17.4
+	Temperature reading #36: 14.6
+	Temperature reading #37: 12.0
+	Temperature reading #38: 9.7
+	Temperature reading #39: 7.8
+	Temperature reading #40: 6.6
+	Temperature reading #41: 6.0
+	Temperature reading #42: 6.2
+	Temperature reading #43: 7.1
+	Temperature reading #44: 8.7
+	Temperature reading #45: 10.8
+	Temperature reading #46: 13.3
+	Temperature reading #47: 16.0
+	Temperature reading #48: 18.7
+	Temperature reading #49: 21.2
+	Temperature reading #50: 23.3
+	Temperature reading #51: 24.9
+	Temperature reading #52: 25.8
+	Temperature reading #53: 26.0
+	Temperature reading #54: 25.4
+	Temperature reading #55: 24.2
+	Temperature reading #56: 22.3
+	Temperature reading #57: 20.0
+	Temperature reading #58: 17.4
+	Temperature reading #59: 14.6
+	Temperature reading #60: 12.0
+	Temperature reading #61: 9.7
+	Temperature reading #62: 7.8
+	Temperature reading #63: 6.6
+	Temperature reading #64: 6.0
+	Temperature reading #65: 6.2
+	Temperature reading #66: 7.1
+	Temperature reading #67: 8.7
+	Temperature reading #68: 10.8
+	Temperature reading #69: 13.3
+
+Temperature list: [16.0, 18.7, 21.2, 23.3, 24.9, 25.8, 26.0, 25.4, 24.2, 22.3, 20.0, 17.4, 14.6, 12.0, 9.7, 7.8, 6.6, 6.0, 6.2, 7.1, 8.7, 10.8, 13.3, 16.0, 18.7, 21.2, 23.3, 24.9, 25.8, 26.0, 25.4, 24.2, 22.3, 20.0, 17.4, 14.6, 12.0, 9.7, 7.8, 6.6, 6.0, 6.2, 7.1, 8.7, 10.8, 13.3, 16.0, 18.7, 21.2, 23.3, 24.9, 25.8, 26.0, 25.4, 24.2, 22.3, 20.0, 17.4, 14.6, 12.0, 9.7, 7.8, 6.6, 6.0, 6.2, 7.1, 8.7, 10.8, 13.3]
+Predicted heatwave: []
+-----
+
+Current testcase: 72
+	Temperature reading #1: 22.0
+	Temperature reading #2: 29.6
+	Temperature reading #3: 34.7
+	Temperature reading #4: 35.9
+	Temperature reading #5: 32.6
+	Temperature reading #6: 25.9
+	Temperature reading #7: 18.1
+	Temperature reading #8: 11.4
+	Temperature reading #9: 8.1
+	Temperature reading #10: 9.3
+	Temperature reading #11: 14.4
+	Temperature reading #12: 22.0
+	Temperature reading #13: 29.6
+	Temperature reading #14: 34.7
+	Temperature reading #15: 35.9
+	Temperature reading #16: 32.6
+	Temperature reading #17: 25.9
+	Temperature reading #18: 18.1
+	Temperature reading #19: 11.4
+	Temperature reading #20: 8.1
+	Temperature reading #21: 9.3
+	Temperature reading #22: 14.4
+
+Temperature list: [22.0, 29.6, 34.7, 35.9, 32.6, 25.9, 18.1, 11.4, 8.1, 9.3, 14.4, 22.0, 29.6, 34.7, 35.9, 32.6, 25.9, 18.1, 11.4, 8.1, 9.3, 14.4]
+Predicted heatwave: [29.6, 34.7, 35.9, 32.6, 25.9]
+-----
+
+Current testcase: 73
+	Temperature reading #1: 15.0
+	Temperature reading #2: 20.2
+	Temperature reading #3: 24.4
+	Temperature reading #4: 26.7
+	Temperature reading #5: 26.7
+	Temperature reading #6: 24.4
+	Temperature reading #7: 20.2
+	Temperature reading #8: 15.0
+	Temperature reading #9: 9.8
+	Temperature reading #10: 5.6
+	Temperature reading #11: 3.3
+	Temperature reading #12: 3.3
+	Temperature reading #13: 5.6
+	Temperature reading #14: 9.8
+	Temperature reading #15: 15.0
+	Temperature reading #16: 20.2
+	Temperature reading #17: 24.4
+	Temperature reading #18: 26.7
+	Temperature reading #19: 26.7
+	Temperature reading #20: 24.4
+	Temperature reading #21: 20.2
+	Temperature reading #22: 15.0
+	Temperature reading #23: 9.8
+	Temperature reading #24: 5.6
+	Temperature reading #25: 3.3
+	Temperature reading #26: 3.3
+	Temperature reading #27: 5.6
+	Temperature reading #28: 9.8
+
+Temperature list: [15.0, 20.2, 24.4, 26.7, 26.7, 24.4, 20.2, 15.0, 9.8, 5.6, 3.3, 3.3, 5.6, 9.8, 15.0, 20.2, 24.4, 26.7, 26.7, 24.4, 20.2, 15.0, 9.8, 5.6, 3.3, 3.3, 5.6, 9.8]
+Predicted heatwave: []
+-----
+
+Current testcase: 74
+	Temperature reading #1: 17.0
+	Temperature reading #2: 20.5
+	Temperature reading #3: 23.9
+	Temperature reading #4: 27.0
+	Temperature reading #5: 29.6
+	Temperature reading #6: 31.7
+	Temperature reading #7: 33.2
+	Temperature reading #8: 33.9
+	Temperature reading #9: 33.9
+	Temperature reading #10: 33.2
+	Temperature reading #11: 31.7
+	Temperature reading #12: 29.6
+	Temperature reading #13: 27.0
+	Temperature reading #14: 23.9
+	Temperature reading #15: 20.5
+	Temperature reading #16: 17.0
+	Temperature reading #17: 13.5
+	Temperature reading #18: 10.1
+	Temperature reading #19: 7.0
+	Temperature reading #20: 4.4
+	Temperature reading #21: 2.3
+	Temperature reading #22: 0.8
+	Temperature reading #23: 0.1
+	Temperature reading #24: 0.1
+	Temperature reading #25: 0.8
+	Temperature reading #26: 2.3
+	Temperature reading #27: 4.4
+	Temperature reading #28: 7.0
+	Temperature reading #29: 10.1
+	Temperature reading #30: 13.5
+
+Temperature list: [17.0, 20.5, 23.9, 27.0, 29.6, 31.7, 33.2, 33.9, 33.9, 33.2, 31.7, 29.6, 27.0, 23.9, 20.5, 17.0, 13.5, 10.1, 7.0, 4.4, 2.3, 0.8, 0.1, 0.1, 0.8, 2.3, 4.4, 7.0, 10.1, 13.5]
+Predicted heatwave: [27.0, 29.6, 31.7, 33.2, 33.9, 33.9, 33.2, 31.7, 29.6, 27.0]
+-----
+
+Current testcase: 75
+	Temperature reading #1: 19.0
+	Temperature reading #2: 20.8
+	Temperature reading #3: 22.5
+	Temperature reading #4: 24.1
+	Temperature reading #5: 25.6
+	Temperature reading #6: 26.8
+	Temperature reading #7: 27.8
+	Temperature reading #8: 28.5
+	Temperature reading #9: 28.9
+	Temperature reading #10: 29.0
+	Temperature reading #11: 28.7
+	Temperature reading #12: 28.2
+	Temperature reading #13: 27.3
+	Temperature reading #14: 26.2
+	Temperature reading #15: 24.9
+	Temperature reading #16: 23.3
+	Temperature reading #17: 21.7
+	Temperature reading #18: 19.9
+	Temperature reading #19: 18.1
+	Temperature reading #20: 16.3
+	Temperature reading #21: 14.7
+	Temperature reading #22: 13.1
+	Temperature reading #23: 11.8
+	Temperature reading #24: 10.7
+	Temperature reading #25: 9.8
+	Temperature reading #26: 9.3
+	Temperature reading #27: 9.0
+	Temperature reading #28: 9.1
+	Temperature reading #29: 9.5
+	Temperature reading #30: 10.2
+	Temperature reading #31: 11.2
+	Temperature reading #32: 12.4
+	Temperature reading #33: 13.9
+	Temperature reading #34: 15.5
+	Temperature reading #35: 17.2
+
+Temperature list: [19.0, 20.8, 22.5, 24.1, 25.6, 26.8, 27.8, 28.5, 28.9, 29.0, 28.7, 28.2, 27.3, 26.2, 24.9, 23.3, 21.7, 19.9, 18.1, 16.3, 14.7, 13.1, 11.8, 10.7, 9.8, 9.3, 9.0, 9.1, 9.5, 10.2, 11.2, 12.4, 13.9, 15.5, 17.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 76
+	Temperature reading #1: 16.0
+	Temperature reading #2: 23.5
+	Temperature reading #3: 29.8
+	Temperature reading #4: 33.8
+	Temperature reading #5: 35.0
+	Temperature reading #6: 33.1
+	Temperature reading #7: 28.4
+	Temperature reading #8: 21.7
+	Temperature reading #9: 14.1
+	Temperature reading #10: 6.8
+	Temperature reading #11: 1.0
+	Temperature reading #12: -2.4
+	Temperature reading #13: -2.8
+	Temperature reading #14: -0.1
+	Temperature reading #15: 5.1
+	Temperature reading #16: 12.2
+	Temperature reading #17: 19.8
+	Temperature reading #18: 26.9
+	Temperature reading #19: 32.1
+	Temperature reading #20: 34.8
+	Temperature reading #21: 34.4
+	Temperature reading #22: 31.0
+	Temperature reading #23: 25.2
+	Temperature reading #24: 17.9
+	Temperature reading #25: 10.3
+	Temperature reading #26: 3.6
+	Temperature reading #27: -1.1
+	Temperature reading #28: -3.0
+	Temperature reading #29: -1.8
+	Temperature reading #30: 2.2
+	Temperature reading #31: 8.5
+
+Temperature list: [16.0, 23.5, 29.8, 33.8, 35.0, 33.1, 28.4, 21.7, 14.1, 6.8, 1.0, -2.4, -2.8, -0.1, 5.1, 12.2, 19.8, 26.9, 32.1, 34.8, 34.4, 31.0, 25.2, 17.9, 10.3, 3.6, -1.1, -3.0, -1.8, 2.2, 8.5]
+Predicted heatwave: [29.8, 33.8, 35.0, 33.1, 28.4]
+-----
+
+Current testcase: 77
+	Temperature reading #1: 16.0
+	Temperature reading #2: 22.7
+	Temperature reading #3: 28.2
+	Temperature reading #4: 31.4
+	Temperature reading #5: 31.8
+	Temperature reading #6: 29.2
+	Temperature reading #7: 24.2
+	Temperature reading #8: 17.7
+	Temperature reading #9: 10.9
+	Temperature reading #10: 5.0
+	Temperature reading #11: 1.1
+	Temperature reading #12: 0.0
+	Temperature reading #13: 1.9
+	Temperature reading #14: 6.3
+	Temperature reading #15: 12.6
+	Temperature reading #16: 19.4
+	Temperature reading #17: 25.7
+	Temperature reading #18: 30.1
+	Temperature reading #19: 32.0
+	Temperature reading #20: 30.9
+	Temperature reading #21: 27.0
+	Temperature reading #22: 21.1
+	Temperature reading #23: 14.3
+	Temperature reading #24: 7.8
+	Temperature reading #25: 2.8
+	Temperature reading #26: 0.2
+	Temperature reading #27: 0.6
+	Temperature reading #28: 3.8
+	Temperature reading #29: 9.3
+
+Temperature list: [16.0, 22.7, 28.2, 31.4, 31.8, 29.2, 24.2, 17.7, 10.9, 5.0, 1.1, 0.0, 1.9, 6.3, 12.6, 19.4, 25.7, 30.1, 32.0, 30.9, 27.0, 21.1, 14.3, 7.8, 2.8, 0.2, 0.6, 3.8, 9.3]
+Predicted heatwave: [25.7, 30.1, 32.0, 30.9, 27.0]
+-----
+
+Current testcase: 78
+	Temperature reading #1: 18.0
+	Temperature reading #2: 20.3
+	Temperature reading #3: 22.4
+	Temperature reading #4: 24.3
+	Temperature reading #5: 25.9
+	Temperature reading #6: 27.1
+	Temperature reading #7: 27.8
+	Temperature reading #8: 28.0
+	Temperature reading #9: 27.7
+	Temperature reading #10: 26.8
+	Temperature reading #11: 25.6
+	Temperature reading #12: 23.9
+	Temperature reading #13: 21.9
+	Temperature reading #14: 19.7
+	Temperature reading #15: 17.4
+	Temperature reading #16: 15.2
+	Temperature reading #17: 13.1
+	Temperature reading #18: 11.2
+	Temperature reading #19: 9.7
+	Temperature reading #20: 8.7
+	Temperature reading #21: 8.1
+	Temperature reading #22: 8.0
+	Temperature reading #23: 8.5
+	Temperature reading #24: 9.4
+	Temperature reading #25: 10.8
+	Temperature reading #26: 12.6
+	Temperature reading #27: 14.6
+	Temperature reading #28: 16.9
+	Temperature reading #29: 19.1
+	Temperature reading #30: 21.4
+	Temperature reading #31: 23.4
+	Temperature reading #32: 25.2
+	Temperature reading #33: 26.6
+	Temperature reading #34: 27.5
+	Temperature reading #35: 28.0
+	Temperature reading #36: 27.9
+	Temperature reading #37: 27.3
+	Temperature reading #38: 26.3
+	Temperature reading #39: 24.8
+	Temperature reading #40: 22.9
+	Temperature reading #41: 20.8
+	Temperature reading #42: 18.6
+	Temperature reading #43: 16.3
+	Temperature reading #44: 14.1
+	Temperature reading #45: 12.1
+	Temperature reading #46: 10.4
+	Temperature reading #47: 9.2
+	Temperature reading #48: 8.3
+	Temperature reading #49: 8.0
+	Temperature reading #50: 8.2
+	Temperature reading #51: 8.9
+	Temperature reading #52: 10.1
+	Temperature reading #53: 11.7
+	Temperature reading #54: 13.6
+	Temperature reading #55: 15.7
+
+Temperature list: [18.0, 20.3, 22.4, 24.3, 25.9, 27.1, 27.8, 28.0, 27.7, 26.8, 25.6, 23.9, 21.9, 19.7, 17.4, 15.2, 13.1, 11.2, 9.7, 8.7, 8.1, 8.0, 8.5, 9.4, 10.8, 12.6, 14.6, 16.9, 19.1, 21.4, 23.4, 25.2, 26.6, 27.5, 28.0, 27.9, 27.3, 26.3, 24.8, 22.9, 20.8, 18.6, 16.3, 14.1, 12.1, 10.4, 9.2, 8.3, 8.0, 8.2, 8.9, 10.1, 11.7, 13.6, 15.7]
+Predicted heatwave: []
+-----
+
+Current testcase: 79
+	Temperature reading #1: 17.0
+	Temperature reading #2: 23.8
+	Temperature reading #3: 28.2
+	Temperature reading #4: 28.7
+	Temperature reading #5: 25.2
+	Temperature reading #6: 18.8
+	Temperature reading #7: 11.8
+	Temperature reading #8: 6.6
+	Temperature reading #9: 5.0
+	Temperature reading #10: 7.6
+	Temperature reading #11: 13.5
+	Temperature reading #12: 20.5
+	Temperature reading #13: 26.4
+	Temperature reading #14: 29.0
+	Temperature reading #15: 27.4
+	Temperature reading #16: 22.2
+	Temperature reading #17: 15.2
+	Temperature reading #18: 8.8
+	Temperature reading #19: 5.3
+	Temperature reading #20: 5.8
+	Temperature reading #21: 10.2
+
+Temperature list: [17.0, 23.8, 28.2, 28.7, 25.2, 18.8, 11.8, 6.6, 5.0, 7.6, 13.5, 20.5, 26.4, 29.0, 27.4, 22.2, 15.2, 8.8, 5.3, 5.8, 10.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 80
+	Temperature reading #1: 19.0
+	Temperature reading #2: 24.4
+	Temperature reading #3: 29.1
+	Temperature reading #4: 32.7
+	Temperature reading #5: 34.7
+	Temperature reading #6: 34.8
+	Temperature reading #7: 33.2
+	Temperature reading #8: 29.8
+	Temperature reading #9: 25.2
+	Temperature reading #10: 19.9
+	Temperature reading #11: 14.5
+	Temperature reading #12: 9.6
+	Temperature reading #13: 5.8
+	Temperature reading #14: 3.5
+	Temperature reading #15: 3.1
+	Temperature reading #16: 4.4
+	Temperature reading #17: 7.5
+	Temperature reading #18: 11.9
+	Temperature reading #19: 17.2
+	Temperature reading #20: 22.6
+	Temperature reading #21: 27.7
+	Temperature reading #22: 31.7
+	Temperature reading #23: 34.2
+	Temperature reading #24: 35.0
+	Temperature reading #25: 33.9
+	Temperature reading #26: 31.1
+	Temperature reading #27: 26.9
+	Temperature reading #28: 21.7
+	Temperature reading #29: 16.3
+	Temperature reading #30: 11.1
+	Temperature reading #31: 6.9
+	Temperature reading #32: 4.1
+	Temperature reading #33: 3.0
+	Temperature reading #34: 3.8
+	Temperature reading #35: 6.3
+	Temperature reading #36: 10.3
+	Temperature reading #37: 15.4
+	Temperature reading #38: 20.8
+	Temperature reading #39: 26.1
+	Temperature reading #40: 30.5
+	Temperature reading #41: 33.6
+	Temperature reading #42: 34.9
+	Temperature reading #43: 34.5
+	Temperature reading #44: 32.2
+	Temperature reading #45: 28.4
+	Temperature reading #46: 23.5
+	Temperature reading #47: 18.1
+	Temperature reading #48: 12.8
+	Temperature reading #49: 8.2
+	Temperature reading #50: 4.8
+	Temperature reading #51: 3.2
+	Temperature reading #52: 3.3
+	Temperature reading #53: 5.3
+	Temperature reading #54: 8.9
+	Temperature reading #55: 13.6
+
+Temperature list: [19.0, 24.4, 29.1, 32.7, 34.7, 34.8, 33.2, 29.8, 25.2, 19.9, 14.5, 9.6, 5.8, 3.5, 3.1, 4.4, 7.5, 11.9, 17.2, 22.6, 27.7, 31.7, 34.2, 35.0, 33.9, 31.1, 26.9, 21.7, 16.3, 11.1, 6.9, 4.1, 3.0, 3.8, 6.3, 10.3, 15.4, 20.8, 26.1, 30.5, 33.6, 34.9, 34.5, 32.2, 28.4, 23.5, 18.1, 12.8, 8.2, 4.8, 3.2, 3.3, 5.3, 8.9, 13.6]
+Predicted heatwave: [29.1, 32.7, 34.7, 34.8, 33.2, 29.8, 25.2]
+-----
+
+Current testcase: 81
+	Temperature reading #1: 19.0
+	Temperature reading #2: 21.2
+	Temperature reading #3: 23.3
+	Temperature reading #4: 25.4
+	Temperature reading #5: 27.2
+	Temperature reading #6: 28.9
+	Temperature reading #7: 30.3
+	Temperature reading #8: 31.5
+	Temperature reading #9: 32.3
+	Temperature reading #10: 32.8
+	Temperature reading #11: 33.0
+	Temperature reading #12: 32.8
+	Temperature reading #13: 32.3
+	Temperature reading #14: 31.5
+	Temperature reading #15: 30.3
+	Temperature reading #16: 28.9
+	Temperature reading #17: 27.2
+	Temperature reading #18: 25.4
+	Temperature reading #19: 23.3
+	Temperature reading #20: 21.2
+	Temperature reading #21: 19.0
+	Temperature reading #22: 16.8
+	Temperature reading #23: 14.7
+	Temperature reading #24: 12.6
+	Temperature reading #25: 10.8
+	Temperature reading #26: 9.1
+	Temperature reading #27: 7.7
+	Temperature reading #28: 6.5
+	Temperature reading #29: 5.7
+	Temperature reading #30: 5.2
+	Temperature reading #31: 5.0
+	Temperature reading #32: 5.2
+	Temperature reading #33: 5.7
+	Temperature reading #34: 6.5
+	Temperature reading #35: 7.7
+	Temperature reading #36: 9.1
+	Temperature reading #37: 10.8
+	Temperature reading #38: 12.6
+	Temperature reading #39: 14.7
+	Temperature reading #40: 16.8
+
+Temperature list: [19.0, 21.2, 23.3, 25.4, 27.2, 28.9, 30.3, 31.5, 32.3, 32.8, 33.0, 32.8, 32.3, 31.5, 30.3, 28.9, 27.2, 25.4, 23.3, 21.2, 19.0, 16.8, 14.7, 12.6, 10.8, 9.1, 7.7, 6.5, 5.7, 5.2, 5.0, 5.2, 5.7, 6.5, 7.7, 9.1, 10.8, 12.6, 14.7, 16.8]
+Predicted heatwave: [25.4, 27.2, 28.9, 30.3, 31.5, 32.3, 32.8, 33.0, 32.8, 32.3, 31.5, 30.3, 28.9, 27.2, 25.4]
+-----
+
+Current testcase: 82
+	Temperature reading #1: 24.0
+	Temperature reading #2: 27.4
+	Temperature reading #3: 30.5
+	Temperature reading #4: 33.1
+	Temperature reading #5: 34.9
+	Temperature reading #6: 35.9
+	Temperature reading #7: 35.9
+	Temperature reading #8: 34.9
+	Temperature reading #9: 33.1
+	Temperature reading #10: 30.5
+	Temperature reading #11: 27.4
+	Temperature reading #12: 24.0
+	Temperature reading #13: 20.6
+	Temperature reading #14: 17.5
+	Temperature reading #15: 14.9
+	Temperature reading #16: 13.1
+	Temperature reading #17: 12.1
+	Temperature reading #18: 12.1
+	Temperature reading #19: 13.1
+	Temperature reading #20: 14.9
+	Temperature reading #21: 17.5
+	Temperature reading #22: 20.6
+
+Temperature list: [24.0, 27.4, 30.5, 33.1, 34.9, 35.9, 35.9, 34.9, 33.1, 30.5, 27.4, 24.0, 20.6, 17.5, 14.9, 13.1, 12.1, 12.1, 13.1, 14.9, 17.5, 20.6]
+Predicted heatwave: [27.4, 30.5, 33.1, 34.9, 35.9, 35.9, 34.9, 33.1, 30.5, 27.4]
+-----
+
+Current testcase: 83
+	Temperature reading #1: 15.0
+	Temperature reading #2: 20.4
+	Temperature reading #3: 24.1
+	Temperature reading #4: 24.9
+	Temperature reading #5: 22.6
+	Temperature reading #6: 17.8
+	Temperature reading #7: 12.2
+	Temperature reading #8: 7.4
+	Temperature reading #9: 5.1
+	Temperature reading #10: 5.9
+	Temperature reading #11: 9.6
+	Temperature reading #12: 15.0
+	Temperature reading #13: 20.4
+	Temperature reading #14: 24.1
+	Temperature reading #15: 24.9
+	Temperature reading #16: 22.6
+	Temperature reading #17: 17.8
+	Temperature reading #18: 12.2
+	Temperature reading #19: 7.4
+	Temperature reading #20: 5.1
+	Temperature reading #21: 5.9
+	Temperature reading #22: 9.6
+
+Temperature list: [15.0, 20.4, 24.1, 24.9, 22.6, 17.8, 12.2, 7.4, 5.1, 5.9, 9.6, 15.0, 20.4, 24.1, 24.9, 22.6, 17.8, 12.2, 7.4, 5.1, 5.9, 9.6]
+Predicted heatwave: []
+-----
+
+Current testcase: 84
+	Temperature reading #1: 15.0
+	Temperature reading #2: 19.1
+	Temperature reading #3: 22.9
+	Temperature reading #4: 25.9
+	Temperature reading #5: 28.0
+	Temperature reading #6: 29.0
+	Temperature reading #7: 28.6
+	Temperature reading #8: 27.1
+	Temperature reading #9: 24.5
+	Temperature reading #10: 21.1
+	Temperature reading #11: 17.1
+	Temperature reading #12: 12.9
+	Temperature reading #13: 8.9
+	Temperature reading #14: 5.5
+	Temperature reading #15: 2.9
+	Temperature reading #16: 1.4
+	Temperature reading #17: 1.0
+	Temperature reading #18: 2.0
+	Temperature reading #19: 4.1
+	Temperature reading #20: 7.1
+	Temperature reading #21: 10.9
+
+Temperature list: [15.0, 19.1, 22.9, 25.9, 28.0, 29.0, 28.6, 27.1, 24.5, 21.1, 17.1, 12.9, 8.9, 5.5, 2.9, 1.4, 1.0, 2.0, 4.1, 7.1, 10.9]
+Predicted heatwave: []
+-----
+
+Current testcase: 85
+	Temperature reading #1: 16.0
+	Temperature reading #2: 20.2
+	Temperature reading #3: 23.9
+	Temperature reading #4: 26.8
+	Temperature reading #5: 28.5
+	Temperature reading #6: 29.0
+	Temperature reading #7: 28.1
+	Temperature reading #8: 25.9
+	Temperature reading #9: 22.7
+	Temperature reading #10: 18.8
+	Temperature reading #11: 14.6
+	Temperature reading #12: 10.5
+	Temperature reading #13: 7.1
+	Temperature reading #14: 4.5
+	Temperature reading #15: 3.2
+	Temperature reading #16: 3.2
+	Temperature reading #17: 4.5
+	Temperature reading #18: 7.1
+	Temperature reading #19: 10.5
+	Temperature reading #20: 14.6
+	Temperature reading #21: 18.8
+	Temperature reading #22: 22.7
+	Temperature reading #23: 25.9
+	Temperature reading #24: 28.1
+	Temperature reading #25: 29.0
+	Temperature reading #26: 28.5
+	Temperature reading #27: 26.8
+	Temperature reading #28: 23.9
+	Temperature reading #29: 20.2
+	Temperature reading #30: 16.0
+	Temperature reading #31: 11.8
+	Temperature reading #32: 8.1
+	Temperature reading #33: 5.2
+	Temperature reading #34: 3.5
+	Temperature reading #35: 3.0
+	Temperature reading #36: 3.9
+	Temperature reading #37: 6.1
+	Temperature reading #38: 9.3
+	Temperature reading #39: 13.2
+	Temperature reading #40: 17.4
+	Temperature reading #41: 21.5
+	Temperature reading #42: 24.9
+	Temperature reading #43: 27.5
+	Temperature reading #44: 28.8
+	Temperature reading #45: 28.8
+	Temperature reading #46: 27.5
+	Temperature reading #47: 24.9
+	Temperature reading #48: 21.5
+	Temperature reading #49: 17.4
+	Temperature reading #50: 13.2
+	Temperature reading #51: 9.3
+	Temperature reading #52: 6.1
+	Temperature reading #53: 3.9
+	Temperature reading #54: 3.0
+	Temperature reading #55: 3.5
+	Temperature reading #56: 5.2
+	Temperature reading #57: 8.1
+	Temperature reading #58: 11.8
+
+Temperature list: [16.0, 20.2, 23.9, 26.8, 28.5, 29.0, 28.1, 25.9, 22.7, 18.8, 14.6, 10.5, 7.1, 4.5, 3.2, 3.2, 4.5, 7.1, 10.5, 14.6, 18.8, 22.7, 25.9, 28.1, 29.0, 28.5, 26.8, 23.9, 20.2, 16.0, 11.8, 8.1, 5.2, 3.5, 3.0, 3.9, 6.1, 9.3, 13.2, 17.4, 21.5, 24.9, 27.5, 28.8, 28.8, 27.5, 24.9, 21.5, 17.4, 13.2, 9.3, 6.1, 3.9, 3.0, 3.5, 5.2, 8.1, 11.8]
+Predicted heatwave: []
+-----
+
+Current testcase: 86
+	Temperature reading #1: 23.0
+	Temperature reading #2: 25.6
+	Temperature reading #3: 28.0
+	Temperature reading #4: 30.3
+	Temperature reading #5: 32.1
+	Temperature reading #6: 33.6
+	Temperature reading #7: 34.6
+	Temperature reading #8: 35.0
+	Temperature reading #9: 34.8
+	Temperature reading #10: 34.1
+	Temperature reading #11: 32.9
+	Temperature reading #12: 31.3
+	Temperature reading #13: 29.2
+	Temperature reading #14: 26.8
+	Temperature reading #15: 24.3
+	Temperature reading #16: 21.7
+	Temperature reading #17: 19.2
+	Temperature reading #18: 16.8
+	Temperature reading #19: 14.7
+	Temperature reading #20: 13.1
+	Temperature reading #21: 11.9
+	Temperature reading #22: 11.2
+	Temperature reading #23: 11.0
+	Temperature reading #24: 11.4
+	Temperature reading #25: 12.4
+	Temperature reading #26: 13.9
+	Temperature reading #27: 15.7
+	Temperature reading #28: 18.0
+	Temperature reading #29: 20.4
+
+Temperature list: [23.0, 25.6, 28.0, 30.3, 32.1, 33.6, 34.6, 35.0, 34.8, 34.1, 32.9, 31.3, 29.2, 26.8, 24.3, 21.7, 19.2, 16.8, 14.7, 13.1, 11.9, 11.2, 11.0, 11.4, 12.4, 13.9, 15.7, 18.0, 20.4]
+Predicted heatwave: [25.6, 28.0, 30.3, 32.1, 33.6, 34.6, 35.0, 34.8, 34.1, 32.9, 31.3, 29.2, 26.8]
+-----
+
+Current testcase: 87
+	Temperature reading #1: 16.0
+	Temperature reading #2: 21.1
+	Temperature reading #3: 25.9
+	Temperature reading #4: 29.9
+	Temperature reading #5: 32.9
+	Temperature reading #6: 34.6
+	Temperature reading #7: 35.0
+	Temperature reading #8: 33.9
+	Temperature reading #9: 31.5
+	Temperature reading #10: 28.0
+	Temperature reading #11: 23.6
+	Temperature reading #12: 18.6
+	Temperature reading #13: 13.4
+	Temperature reading #14: 8.4
+	Temperature reading #15: 4.0
+	Temperature reading #16: 0.5
+	Temperature reading #17: -1.9
+	Temperature reading #18: -3.0
+	Temperature reading #19: -2.6
+	Temperature reading #20: -0.9
+	Temperature reading #21: 2.1
+	Temperature reading #22: 6.1
+	Temperature reading #23: 10.9
+
+Temperature list: [16.0, 21.1, 25.9, 29.9, 32.9, 34.6, 35.0, 33.9, 31.5, 28.0, 23.6, 18.6, 13.4, 8.4, 4.0, 0.5, -1.9, -3.0, -2.6, -0.9, 2.1, 6.1, 10.9]
+Predicted heatwave: [25.9, 29.9, 32.9, 34.6, 35.0, 33.9, 31.5, 28.0]
+-----
+
+Current testcase: 88
+	Temperature reading #1: 15.0
+	Temperature reading #2: 22.2
+	Temperature reading #3: 28.5
+	Temperature reading #4: 33.2
+	Temperature reading #5: 35.7
+	Temperature reading #6: 35.7
+	Temperature reading #7: 33.2
+	Temperature reading #8: 28.5
+	Temperature reading #9: 22.2
+	Temperature reading #10: 15.0
+	Temperature reading #11: 7.8
+	Temperature reading #12: 1.5
+	Temperature reading #13: -3.2
+	Temperature reading #14: -5.7
+	Temperature reading #15: -5.7
+	Temperature reading #16: -3.2
+	Temperature reading #17: 1.5
+	Temperature reading #18: 7.8
+	Temperature reading #19: 15.0
+	Temperature reading #20: 22.2
+	Temperature reading #21: 28.5
+	Temperature reading #22: 33.2
+	Temperature reading #23: 35.7
+	Temperature reading #24: 35.7
+	Temperature reading #25: 33.2
+	Temperature reading #26: 28.5
+	Temperature reading #27: 22.2
+	Temperature reading #28: 15.0
+	Temperature reading #29: 7.8
+	Temperature reading #30: 1.5
+	Temperature reading #31: -3.2
+	Temperature reading #32: -5.7
+	Temperature reading #33: -5.7
+	Temperature reading #34: -3.2
+	Temperature reading #35: 1.5
+	Temperature reading #36: 7.8
+
+Temperature list: [15.0, 22.2, 28.5, 33.2, 35.7, 35.7, 33.2, 28.5, 22.2, 15.0, 7.8, 1.5, -3.2, -5.7, -5.7, -3.2, 1.5, 7.8, 15.0, 22.2, 28.5, 33.2, 35.7, 35.7, 33.2, 28.5, 22.2, 15.0, 7.8, 1.5, -3.2, -5.7, -5.7, -3.2, 1.5, 7.8]
+Predicted heatwave: [28.5, 33.2, 35.7, 35.7, 33.2, 28.5]
+-----
+
+Current testcase: 89
+	Temperature reading #1: 22.0
+	Temperature reading #2: 31.6
+	Temperature reading #3: 36.0
+	Temperature reading #4: 32.8
+	Temperature reading #5: 23.8
+	Temperature reading #6: 13.8
+	Temperature reading #7: 8.2
+	Temperature reading #8: 10.2
+	Temperature reading #9: 18.5
+	Temperature reading #10: 28.7
+	Temperature reading #11: 35.3
+	Temperature reading #12: 34.7
+	Temperature reading #13: 27.2
+	Temperature reading #14: 16.8
+	Temperature reading #15: 9.3
+	Temperature reading #16: 8.7
+	Temperature reading #17: 15.3
+	Temperature reading #18: 25.5
+	Temperature reading #19: 33.8
+	Temperature reading #20: 35.8
+	Temperature reading #21: 30.2
+	Temperature reading #22: 20.2
+	Temperature reading #23: 11.2
+	Temperature reading #24: 8.0
+	Temperature reading #25: 12.4
+
+Temperature list: [22.0, 31.6, 36.0, 32.8, 23.8, 13.8, 8.2, 10.2, 18.5, 28.7, 35.3, 34.7, 27.2, 16.8, 9.3, 8.7, 15.3, 25.5, 33.8, 35.8, 30.2, 20.2, 11.2, 8.0, 12.4]
+Predicted heatwave: []
+-----
+
+Current testcase: 90
+	Temperature reading #1: 18.0
+	Temperature reading #2: 22.4
+	Temperature reading #3: 26.4
+	Temperature reading #4: 29.3
+	Temperature reading #5: 30.8
+	Temperature reading #6: 30.8
+	Temperature reading #7: 29.3
+	Temperature reading #8: 26.4
+	Temperature reading #9: 22.4
+	Temperature reading #10: 18.0
+	Temperature reading #11: 13.6
+	Temperature reading #12: 9.6
+	Temperature reading #13: 6.7
+	Temperature reading #14: 5.2
+	Temperature reading #15: 5.2
+	Temperature reading #16: 6.7
+	Temperature reading #17: 9.6
+	Temperature reading #18: 13.6
+	Temperature reading #19: 18.0
+	Temperature reading #20: 22.4
+	Temperature reading #21: 26.4
+	Temperature reading #22: 29.3
+	Temperature reading #23: 30.8
+	Temperature reading #24: 30.8
+	Temperature reading #25: 29.3
+	Temperature reading #26: 26.4
+	Temperature reading #27: 22.4
+	Temperature reading #28: 18.0
+	Temperature reading #29: 13.6
+	Temperature reading #30: 9.6
+	Temperature reading #31: 6.7
+	Temperature reading #32: 5.2
+	Temperature reading #33: 5.2
+	Temperature reading #34: 6.7
+	Temperature reading #35: 9.6
+	Temperature reading #36: 13.6
+
+Temperature list: [18.0, 22.4, 26.4, 29.3, 30.8, 30.8, 29.3, 26.4, 22.4, 18.0, 13.6, 9.6, 6.7, 5.2, 5.2, 6.7, 9.6, 13.6, 18.0, 22.4, 26.4, 29.3, 30.8, 30.8, 29.3, 26.4, 22.4, 18.0, 13.6, 9.6, 6.7, 5.2, 5.2, 6.7, 9.6, 13.6]
+Predicted heatwave: []
+-----
+
+Current testcase: 91
+	Temperature reading #1: 17.0
+	Temperature reading #2: 25.4
+	Temperature reading #3: 26.2
+	Temperature reading #4: 18.6
+	Temperature reading #5: 9.6
+	Temperature reading #6: 7.3
+	Temperature reading #7: 13.8
+	Temperature reading #8: 23.1
+	Temperature reading #9: 27.0
+	Temperature reading #10: 21.8
+	Temperature reading #11: 12.2
+	Temperature reading #12: 7.0
+	Temperature reading #13: 10.9
+	Temperature reading #14: 20.2
+	Temperature reading #15: 26.7
+	Temperature reading #16: 24.4
+	Temperature reading #17: 15.4
+	Temperature reading #18: 7.8
+	Temperature reading #19: 8.6
+
+Temperature list: [17.0, 25.4, 26.2, 18.6, 9.6, 7.3, 13.8, 23.1, 27.0, 21.8, 12.2, 7.0, 10.9, 20.2, 26.7, 24.4, 15.4, 7.8, 8.6]
+Predicted heatwave: []
+-----
+
+Current testcase: 92
+	Temperature reading #1: 19.0
+	Temperature reading #2: 26.4
+	Temperature reading #3: 32.2
+	Temperature reading #4: 34.9
+	Temperature reading #5: 34.0
+	Temperature reading #6: 29.6
+	Temperature reading #7: 22.8
+	Temperature reading #8: 15.2
+	Temperature reading #9: 8.4
+	Temperature reading #10: 4.0
+	Temperature reading #11: 3.1
+	Temperature reading #12: 5.8
+	Temperature reading #13: 11.6
+
+Temperature list: [19.0, 26.4, 32.2, 34.9, 34.0, 29.6, 22.8, 15.2, 8.4, 4.0, 3.1, 5.8, 11.6]
+Predicted heatwave: [26.4, 32.2, 34.9, 34.0, 29.6]
+-----
+
+Current testcase: 93
+	Temperature reading #1: 19.0
+	Temperature reading #2: 21.1
+	Temperature reading #3: 23.2
+	Temperature reading #4: 25.2
+	Temperature reading #5: 26.9
+	Temperature reading #6: 28.4
+	Temperature reading #7: 29.6
+	Temperature reading #8: 30.4
+	Temperature reading #9: 30.9
+	Temperature reading #10: 31.0
+	Temperature reading #11: 30.7
+	Temperature reading #12: 30.0
+	Temperature reading #13: 29.0
+	Temperature reading #14: 27.7
+	Temperature reading #15: 26.1
+	Temperature reading #16: 24.2
+	Temperature reading #17: 22.2
+	Temperature reading #18: 20.1
+	Temperature reading #19: 17.9
+	Temperature reading #20: 15.8
+	Temperature reading #21: 13.8
+	Temperature reading #22: 11.9
+	Temperature reading #23: 10.3
+	Temperature reading #24: 9.0
+	Temperature reading #25: 8.0
+	Temperature reading #26: 7.3
+	Temperature reading #27: 7.0
+	Temperature reading #28: 7.1
+	Temperature reading #29: 7.6
+	Temperature reading #30: 8.4
+	Temperature reading #31: 9.6
+	Temperature reading #32: 11.1
+	Temperature reading #33: 12.8
+	Temperature reading #34: 14.8
+	Temperature reading #35: 16.9
+
+Temperature list: [19.0, 21.1, 23.2, 25.2, 26.9, 28.4, 29.6, 30.4, 30.9, 31.0, 30.7, 30.0, 29.0, 27.7, 26.1, 24.2, 22.2, 20.1, 17.9, 15.8, 13.8, 11.9, 10.3, 9.0, 8.0, 7.3, 7.0, 7.1, 7.6, 8.4, 9.6, 11.1, 12.8, 14.8, 16.9]
+Predicted heatwave: [25.2, 26.9, 28.4, 29.6, 30.4, 30.9, 31.0, 30.7, 30.0, 29.0, 27.7, 26.1]
+-----
+
+Current testcase: 94
+	Temperature reading #1: 24.0
+	Temperature reading #2: 28.2
+	Temperature reading #3: 31.8
+	Temperature reading #4: 34.5
+	Temperature reading #5: 35.9
+	Temperature reading #6: 35.7
+	Temperature reading #7: 34.1
+	Temperature reading #8: 31.3
+	Temperature reading #9: 27.5
+	Temperature reading #10: 23.3
+	Temperature reading #11: 19.2
+	Temperature reading #12: 15.6
+	Temperature reading #13: 13.2
+	Temperature reading #14: 12.0
+	Temperature reading #15: 12.4
+	Temperature reading #16: 14.3
+	Temperature reading #17: 17.3
+	Temperature reading #18: 21.2
+	Temperature reading #19: 25.4
+	Temperature reading #20: 29.5
+	Temperature reading #21: 32.9
+	Temperature reading #22: 35.1
+	Temperature reading #23: 36.0
+	Temperature reading #24: 35.4
+	Temperature reading #25: 33.3
+	Temperature reading #26: 30.1
+	Temperature reading #27: 26.1
+	Temperature reading #28: 21.9
+	Temperature reading #29: 17.9
+	Temperature reading #30: 14.7
+	Temperature reading #31: 12.6
+	Temperature reading #32: 12.0
+	Temperature reading #33: 12.9
+	Temperature reading #34: 15.1
+	Temperature reading #35: 18.5
+	Temperature reading #36: 22.6
+	Temperature reading #37: 26.8
+	Temperature reading #38: 30.7
+	Temperature reading #39: 33.7
+	Temperature reading #40: 35.6
+	Temperature reading #41: 36.0
+	Temperature reading #42: 34.8
+	Temperature reading #43: 32.4
+	Temperature reading #44: 28.8
+	Temperature reading #45: 24.7
+	Temperature reading #46: 20.5
+	Temperature reading #47: 16.7
+	Temperature reading #48: 13.9
+	Temperature reading #49: 12.3
+	Temperature reading #50: 12.1
+	Temperature reading #51: 13.5
+	Temperature reading #52: 16.2
+	Temperature reading #53: 19.8
+
+Temperature list: [24.0, 28.2, 31.8, 34.5, 35.9, 35.7, 34.1, 31.3, 27.5, 23.3, 19.2, 15.6, 13.2, 12.0, 12.4, 14.3, 17.3, 21.2, 25.4, 29.5, 32.9, 35.1, 36.0, 35.4, 33.3, 30.1, 26.1, 21.9, 17.9, 14.7, 12.6, 12.0, 12.9, 15.1, 18.5, 22.6, 26.8, 30.7, 33.7, 35.6, 36.0, 34.8, 32.4, 28.8, 24.7, 20.5, 16.7, 13.9, 12.3, 12.1, 13.5, 16.2, 19.8]
+Predicted heatwave: [28.2, 31.8, 34.5, 35.9, 35.7, 34.1, 31.3, 27.5]
+-----
+
+Current testcase: 95
+	Temperature reading #1: 22.0
+	Temperature reading #2: 29.8
+	Temperature reading #3: 33.0
+	Temperature reading #4: 29.8
+	Temperature reading #5: 22.0
+	Temperature reading #6: 14.2
+	Temperature reading #7: 11.0
+	Temperature reading #8: 14.2
+	Temperature reading #9: 22.0
+	Temperature reading #10: 29.8
+	Temperature reading #11: 33.0
+	Temperature reading #12: 29.8
+	Temperature reading #13: 22.0
+	Temperature reading #14: 14.2
+	Temperature reading #15: 11.0
+	Temperature reading #16: 14.2
+
+Temperature list: [22.0, 29.8, 33.0, 29.8, 22.0, 14.2, 11.0, 14.2, 22.0, 29.8, 33.0, 29.8, 22.0, 14.2, 11.0, 14.2]
+Predicted heatwave: []
+-----
+
+Current testcase: 96
+	Temperature reading #1: 20.0
+	Temperature reading #2: 25.5
+	Temperature reading #3: 29.5
+	Temperature reading #4: 31.0
+	Temperature reading #5: 29.5
+	Temperature reading #6: 25.5
+	Temperature reading #7: 20.0
+	Temperature reading #8: 14.5
+	Temperature reading #9: 10.5
+	Temperature reading #10: 9.0
+	Temperature reading #11: 10.5
+	Temperature reading #12: 14.5
+
+Temperature list: [20.0, 25.5, 29.5, 31.0, 29.5, 25.5, 20.0, 14.5, 10.5, 9.0, 10.5, 14.5]
+Predicted heatwave: []
+-----
+
+Current testcase: 97
+	Temperature reading #1: 25.0
+	Temperature reading #2: 28.8
+	Temperature reading #3: 32.1
+	Temperature reading #4: 34.2
+	Temperature reading #5: 35.0
+	Temperature reading #6: 34.2
+	Temperature reading #7: 32.1
+	Temperature reading #8: 28.8
+	Temperature reading #9: 25.0
+	Temperature reading #10: 21.2
+	Temperature reading #11: 17.9
+	Temperature reading #12: 15.8
+	Temperature reading #13: 15.0
+	Temperature reading #14: 15.8
+	Temperature reading #15: 17.9
+	Temperature reading #16: 21.2
+
+Temperature list: [25.0, 28.8, 32.1, 34.2, 35.0, 34.2, 32.1, 28.8, 25.0, 21.2, 17.9, 15.8, 15.0, 15.8, 17.9, 21.2]
+Predicted heatwave: [25.0, 28.8, 32.1, 34.2, 35.0, 34.2, 32.1, 28.8, 25.0]
+-----
+
+Current testcase: 98
+	Temperature reading #1: 18.0
+	Temperature reading #2: 24.1
+	Temperature reading #3: 29.3
+	Temperature reading #4: 32.8
+	Temperature reading #5: 34.0
+	Temperature reading #6: 32.8
+	Temperature reading #7: 29.3
+	Temperature reading #8: 24.1
+	Temperature reading #9: 18.0
+	Temperature reading #10: 11.9
+	Temperature reading #11: 6.7
+	Temperature reading #12: 3.2
+	Temperature reading #13: 2.0
+	Temperature reading #14: 3.2
+	Temperature reading #15: 6.7
+	Temperature reading #16: 11.9
+
+Temperature list: [18.0, 24.1, 29.3, 32.8, 34.0, 32.8, 29.3, 24.1, 18.0, 11.9, 6.7, 3.2, 2.0, 3.2, 6.7, 11.9]
+Predicted heatwave: [29.3, 32.8, 34.0, 32.8, 29.3]
+-----
+
+Current testcase: 99
+	Temperature reading #1: 21.0
+	Temperature reading #2: 24.2
+	Temperature reading #3: 27.3
+	Temperature reading #4: 29.9
+	Temperature reading #5: 32.0
+	Temperature reading #6: 33.4
+	Temperature reading #7: 34.0
+	Temperature reading #8: 33.8
+	Temperature reading #9: 32.8
+	Temperature reading #10: 31.0
+	Temperature reading #11: 28.6
+	Temperature reading #12: 25.8
+	Temperature reading #13: 22.6
+	Temperature reading #14: 19.4
+	Temperature reading #15: 16.2
+	Temperature reading #16: 13.4
+	Temperature reading #17: 11.0
+	Temperature reading #18: 9.2
+	Temperature reading #19: 8.2
+	Temperature reading #20: 8.0
+	Temperature reading #21: 8.6
+	Temperature reading #22: 10.0
+	Temperature reading #23: 12.1
+	Temperature reading #24: 14.7
+	Temperature reading #25: 17.8
+
+Temperature list: [21.0, 24.2, 27.3, 29.9, 32.0, 33.4, 34.0, 33.8, 32.8, 31.0, 28.6, 25.8, 22.6, 19.4, 16.2, 13.4, 11.0, 9.2, 8.2, 8.0, 8.6, 10.0, 12.1, 14.7, 17.8]
+Predicted heatwave: [27.3, 29.9, 32.0, 33.4, 34.0, 33.8, 32.8, 31.0, 28.6, 25.8]
+-----
+
+Current testcase: 100
+	Temperature reading #1: 18.0
+	Temperature reading #2: 20.8
+	Temperature reading #3: 23.6
+	Temperature reading #4: 26.2
+	Temperature reading #5: 28.6
+	Temperature reading #6: 30.7
+	Temperature reading #7: 32.6
+	Temperature reading #8: 34.0
+	Temperature reading #9: 35.1
+	Temperature reading #10: 35.8
+	Temperature reading #11: 36.0
+	Temperature reading #12: 35.8
+	Temperature reading #13: 35.1
+	Temperature reading #14: 34.0
+	Temperature reading #15: 32.6
+	Temperature reading #16: 30.7
+	Temperature reading #17: 28.6
+	Temperature reading #18: 26.2
+	Temperature reading #19: 23.6
+	Temperature reading #20: 20.8
+	Temperature reading #21: 18.0
+	Temperature reading #22: 15.2
+	Temperature reading #23: 12.4
+	Temperature reading #24: 9.8
+	Temperature reading #25: 7.4
+	Temperature reading #26: 5.3
+	Temperature reading #27: 3.4
+	Temperature reading #28: 2.0
+	Temperature reading #29: 0.9
+	Temperature reading #30: 0.2
+	Temperature reading #31: 0.0
+	Temperature reading #32: 0.2
+	Temperature reading #33: 0.9
+	Temperature reading #34: 2.0
+	Temperature reading #35: 3.4
+	Temperature reading #36: 5.3
+	Temperature reading #37: 7.4
+	Temperature reading #38: 9.8
+	Temperature reading #39: 12.4
+	Temperature reading #40: 15.2
+
+Temperature list: [18.0, 20.8, 23.6, 26.2, 28.6, 30.7, 32.6, 34.0, 35.1, 35.8, 36.0, 35.8, 35.1, 34.0, 32.6, 30.7, 28.6, 26.2, 23.6, 20.8, 18.0, 15.2, 12.4, 9.8, 7.4, 5.3, 3.4, 2.0, 0.9, 0.2, 0.0, 0.2, 0.9, 2.0, 3.4, 5.3, 7.4, 9.8, 12.4, 15.2]
+Predicted heatwave: [26.2, 28.6, 30.7, 32.6, 34.0, 35.1, 35.8, 36.0, 35.8, 35.1, 34.0, 32.6, 30.7, 28.6, 26.2]
+-----
